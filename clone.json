@@ -1,0 +1,5082 @@
+[
+  {
+    "id": "math-71-corrected",
+    "number": 71,
+    "subject": "matematika",
+    "topic": "Bo'lish amali",
+    "tags": ["bo'lish", "natural sonlar", "hisoblash"],
+    "question": {
+      "uz": "$144 \\div 12$ ifodani hisoblang.",
+      "ru": "$144 \\div 12$ вычислите выражение.",
+      "en": "Calculate $144 \\div 12$."
+    },
+    "options": {
+      "A": { "uz": "$10$", "ru": "$10$", "en": "$10$" },
+      "B": { "uz": "$11$", "ru": "$11$", "en": "$11$" },
+      "C": { "uz": "$12$", "ru": "$12$", "en": "$12$" },
+      "D": { "uz": "$15$", "ru": "$15$", "en": "$15$" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$144$ ni $12$ ga bo‘lamiz.", "$144 \\div 12 = 12$."],
+        "final_answer": "12"
+      },
+      {
+        "method": "formula",
+        "steps": ["Bo‘lish formulasi: $a \\div b = c$.", "Bu yerda $144 \\div 12 = 12$."],
+        "final_answer": "12"
+      }
+    ],
+    "explanation": {
+      "uz": "144 sonini 12 ga bo‘lsak, natija 12 bo‘ladi.",
+      "ru": "Если разделить 144 на 12, получится 12.",
+      "en": "If you divide 144 by 12, you get 12."
+    }
+  },
+  {
+    "id": "math-72-corrected",
+    "number": 72,
+    "subject": "matematika",
+    "topic": "Bo'lish amali",
+    "tags": ["bo'lish", "natural sonlar", "hisoblash"],
+    "question": {
+      "uz": "$72 \\div 8$ ifodani hisoblang.",
+      "ru": "$72 \\div 8$ вычислите выражение.",
+      "en": "Calculate $72 \\div 8$."
+    },
+    "options": {
+      "A": { "uz": "$8$", "ru": "$8$", "en": "$8$" },
+      "B": { "uz": "$9$", "ru": "$9$", "en": "$9$" },
+      "C": { "uz": "$10$", "ru": "$10$", "en": "$10$" },
+      "D": { "uz": "$7$", "ru": "$7$", "en": "$7$" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$72$ ni $8$ ga bo‘lamiz.", "$72 \\div 8 = 9$."],
+        "final_answer": "9"
+      },
+      {
+        "method": "formula",
+        "steps": ["Bo‘lish formulasi: $a \\div b = c$.", "Bu yerda $72 \\div 8 = 9$."],
+        "final_answer": "9"
+      }
+    ],
+    "explanation": {
+      "uz": "72 sonini 8 ga bo‘lsak, natija 9 chiqadi.",
+      "ru": "Если разделить 72 на 8, получится 9.",
+      "en": "If you divide 72 by 8, you get 9."
+    }
+  },
+  {
+    "id": "math-73-corrected",
+    "number": 73,
+    "subject": "matematika",
+    "topic": "Bo'lish amali",
+    "tags": ["bo'lish", "natural sonlar", "hisoblash"],
+    "question": {
+      "uz": "$63 \\div 9$ ifodani hisoblang.",
+      "ru": "$63 \\div 9$ вычислите выражение.",
+      "en": "Calculate $63 \\div 9$."
+    },
+    "options": {
+      "A": { "uz": "$6$", "ru": "$6$", "en": "$6$" },
+      "B": { "uz": "$7$", "ru": "$7$", "en": "$7$" },
+      "C": { "uz": "$8$", "ru": "$8$", "en": "$8$" },
+      "D": { "uz": "$9$", "ru": "$9$", "en": "$9$" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$63$ ni $9$ ga bo‘lamiz.", "$63 \\div 9 = 7$."],
+        "final_answer": "7"
+      },
+      {
+        "method": "formula",
+        "steps": ["Bo‘lish formulasi: $a \\div b = c$.", "Bu yerda $63 \\div 9 = 7$."],
+        "final_answer": "7"
+      }
+    ],
+    "explanation": {
+      "uz": "63 sonini 9 ga bo‘lsak, natija 7 chiqadi.",
+      "ru": "Если разделить 63 на 9, получится 7.",
+      "en": "If you divide 63 by 9, you get 7."
+    }
+  },
+  {
+    "id": "math-74-corrected",
+    "number": 74,
+    "subject": "matematika",
+    "topic": "Bo'lish amali",
+    "tags": ["bo'lish", "natural sonlar", "hisoblash"],
+    "question": {
+      "uz": "$256 \\div 16$ ifodani hisoblang.",
+      "ru": "$256 \\div 16$ вычислите выражение.",
+      "en": "Calculate $256 \\div 16$."
+    },
+    "options": {
+      "A": { "uz": "$14$", "ru": "$14$", "en": "$14$" },
+      "B": { "uz": "$15$", "ru": "$15$", "en": "$15$" },
+      "C": { "uz": "$16$", "ru": "$16$", "en": "$16$" },
+      "D": { "uz": "$18$", "ru": "$18$", "en": "$18$" }
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$256$ ni $16$ ga bo‘lamiz.", "$256 \\div 16 = 16$."],
+        "final_answer": "16"
+      },
+      {
+        "method": "formula",
+        "steps": ["Bo‘lish formulasi: $a \\div b = c$.", "Bu yerda $256 \\div 16 = 16$."],
+        "final_answer": "16"
+      }
+    ],
+    "explanation": {
+      "uz": "256 sonini 16 ga bo‘lsak, natija 16 chiqadi.",
+      "ru": "Если разделить 256 на 16, получится 16.",
+      "en": "If you divide 256 by 16, you get 16."
+    }
+  },
+  {
+    "id": "math-75-corrected",
+    "number": 75,
+    "subject": "matematika",
+    "topic": "Bo'lish amali",
+    "tags": ["bo'lish", "natural sonlar", "hisoblash"],
+    "question": {
+      "uz": "$225 \\div 15$ ifodani hisoblang.",
+      "ru": "$225 \\div 15$ вычислите выражение.",
+      "en": "Calculate $225 \\div 15$."
+    },
+    "options": {
+      "A": { "uz": "$12$", "ru": "$12$", "en": "$12$" },
+      "B": { "uz": "$14$", "ru": "$14$", "en": "$14$" },
+      "C": { "uz": "$15$", "ru": "$15$", "en": "$15$" },
+      "D": { "uz": "$18$", "ru": "$18$", "en": "$18$" }
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$225$ ni $15$ ga bo‘lamiz.", "$225 \\div 15 = 15$."],
+        "final_answer": "15"
+      },
+      {
+        "method": "formula",
+        "steps": ["Bo‘lish formulasi: $a \\div b = c$.", "Bu yerda $225 \\div 15 = 15$."],
+        "final_answer": "15"
+      }
+    ],
+    "explanation": {
+      "uz": "225 sonini 15 ga bo‘lsak, natija 15 chiqadi.",
+      "ru": "Если разделить 225 на 15, получится 15.",
+      "en": "If you divide 225 by 15, you get 15."
+    }
+  }
+]
+[
+  {
+    "id": "math-79-corrected",
+    "number": 79,
+    "subject": "matematika",
+    "topic": "Standart ko‘rinish va ilmiy yozuv",
+    "tags": ["standart shakl", "daraja", "hisoblash"],
+    "question": {
+      "uz": "$120.4 \\times 10^{22} : 6.02 \\times 10^{23}$ ifodani hisoblang.",
+      "ru": "Вычислите выражение $120.4 \\times 10^{22} : 6.02 \\times 10^{23}$.",
+      "en": "Calculate $120.4 \\times 10^{22} : 6.02 \\times 10^{23}$."
+    },
+    "options": {
+      "A": { "uz": "$5$", "ru": "$5$", "en": "$5$" },
+      "B": { "uz": "$8$", "ru": "$8$", "en": "$8$" },
+      "C": { "uz": "$2$", "ru": "$2$", "en": "$2$" },
+      "D": { "uz": "$12$", "ru": "$12$", "en": "$12$" }
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": [
+          "$120.4 \\div 6.02 \\approx 20$.",
+          "$10^{22} \\div 10^{23} = 10^{-1}$.",
+          "$20 \\times 10^{-1} = 2.0$."
+        ],
+        "final_answer": "2"
+      },
+      {
+        "method": "formula",
+        "steps": [
+          "Umumiy ko‘rinishda: $a \\times 10^m : b \\times 10^n = \\frac{a}{b} \\times 10^{m-n}$.",
+          "Bu yerda $a=120.4, b=6.02, m=22, n=23$.",
+          "$\\frac{120.4}{6.02} \\times 10^{-1} = 20 \\times 0.1 = 2$."
+        ],
+        "final_answer": "2"
+      }
+    ],
+    "explanation": {
+      "uz": "Ifodani standart shaklda yozsak: $(120.4/6.02) \\times 10^{22-23} = 20 \\times 10^{-1} = 2$.",
+      "ru": "Запишем выражение в стандартной форме: $(120.4/6.02) \\times 10^{22-23} = 20 \\times 10^{-1} = 2$.",
+      "en": "In standard form: $(120.4/6.02) \\times 10^{22-23} = 20 \\times 10^{-1} = 2$."
+    }
+  },
+  {
+    "id": "math-80-corrected",
+    "number": 80,
+    "subject": "matematika",
+    "topic": "Standart ko‘rinish va ilmiy yozuv",
+    "tags": ["standart shakl", "daraja", "hisoblash"],
+    "question": {
+      "uz": "$50 \\times 10^{24} : 2.5 \\times 10^{25}$ ifodani hisoblang.",
+      "ru": "Вычислите выражение $50 \\times 10^{24} : 2.5 \\times 10^{25}$.",
+      "en": "Calculate $50 \\times 10^{24} : 2.5 \\times 10^{25}$."
+    },
+    "options": {
+      "A": { "uz": "$1$", "ru": "$1$", "en": "$1$" },
+      "B": { "uz": "$2$", "ru": "$2$", "en": "$2$" },
+      "C": { "uz": "$0.2$", "ru": "$0.2$", "en": "$0.2$" },
+      "D": { "uz": "$0.5$", "ru": "$0.5$", "en": "$0.5$" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": [
+          "$50 \\div 2.5 = 20$.",
+          "$10^{24} \\div 10^{25} = 10^{-1}$.",
+          "$20 \\times 0.1 = 2$."
+        ],
+        "final_answer": "2"
+      },
+      {
+        "method": "formula",
+        "steps": [
+          "$\\frac{50}{2.5} \\times 10^{24-25}$.",
+          "$20 \\times 10^{-1} = 2$."
+        ],
+        "final_answer": "2"
+      }
+    ],
+    "explanation": {
+      "uz": "Natija $2$ ga teng bo‘ladi.",
+      "ru": "Результат равен $2$.",
+      "en": "The result equals $2$."
+    }
+  },
+  {
+    "id": "math-81-corrected",
+    "number": 81,
+    "subject": "matematika",
+    "topic": "Standart ko‘rinish va ilmiy yozuv",
+    "tags": ["standart shakl", "daraja", "hisoblash"],
+    "question": {
+      "uz": "$3.6 \\times 10^{18} : 1.2 \\times 10^{17}$ ifodani hisoblang.",
+      "ru": "Вычислите выражение $3.6 \\times 10^{18} : 1.2 \\times 10^{17}$.",
+      "en": "Calculate $3.6 \\times 10^{18} : 1.2 \\times 10^{17}$."
+    },
+    "options": {
+      "A": { "uz": "$30$", "ru": "$30$", "en": "$30$" },
+      "B": { "uz": "$2$", "ru": "$2$", "en": "$2$" },
+      "C": { "uz": "$12$", "ru": "$12$", "en": "$12$" },
+      "D": { "uz": "$3$", "ru": "$3$", "en": "$3$" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": [
+          "$3.6 \\div 1.2 = 3$.",
+          "$10^{18} \\div 10^{17} = 10^1$.",
+          "$3 \\times 10 = 30$."
+        ],
+        "final_answer": "30"
+      },
+      {
+        "method": "formula",
+        "steps": [
+          "$\\frac{3.6}{1.2} \\times 10^{18-17}$.",
+          "$3 \\times 10 = 30$."
+        ],
+        "final_answer": "30"
+      }
+    ],
+    "explanation": {
+      "uz": "Natija $30$ chiqadi.",
+      "ru": "Результат равен $30$.",
+      "en": "The result is $30$."
+    }
+  },
+  {
+    "id": "math-82-corrected",
+    "number": 82,
+    "subject": "matematika",
+    "topic": "Standart ko‘rinish va ilmiy yozuv",
+    "tags": ["standart shakl", "daraja", "hisoblash"],
+    "question": {
+      "uz": "$7.5 \\times 10^{15} : 1.5 \\times 10^{14}$ ifodani hisoblang.",
+      "ru": "Вычислите выражение $7.5 \\times 10^{15} : 1.5 \\times 10^{14}$.",
+      "en": "Calculate $7.5 \\times 10^{15} : 1.5 \\times 10^{14}$."
+    },
+    "options": {
+      "A": { "uz": "$50$", "ru": "$50$", "en": "$50$" },
+      "B": { "uz": "$5$", "ru": "$5$", "en": "$5$" },
+      "C": { "uz": "$500$", "ru": "$500$", "en": "$500$" },
+      "D": { "uz": "$25$", "ru": "$25$", "en": "$25$" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": [
+          "$7.5 \\div 1.5 = 5$.",
+          "$10^{15} \\div 10^{14} = 10^1$.",
+          "$5 \\times 10 = 50$."
+        ],
+        "final_answer": "50"
+      },
+      {
+        "method": "formula",
+        "steps": [
+          "$\\frac{7.5}{1.5} \\times 10^{15-14}$.",
+          "$5 \\times 10 = 50$."
+        ],
+        "final_answer": "50"
+      }
+    ],
+    "explanation": {
+      "uz": "Natija $50$ ga teng.",
+      "ru": "Результат равен $50$.",
+      "en": "The result is $50$."
+    }
+  },
+  {
+    "id": "math-83-corrected",
+    "number": 83,
+    "subject": "matematika",
+    "topic": "Standart ko‘rinish va ilmiy yozuv",
+    "tags": ["standart shakl", "daraja", "hisoblash"],
+    "question": {
+      "uz": "$9.0 \\times 10^{20} : 3.0 \\times 10^{19}$ ifodani hisoblang.",
+      "ru": "Вычислите выражение $9.0 \\times 10^{20} : 3.0 \\times 10^{19}$.",
+      "en": "Calculate $9.0 \\times 10^{20} : 3.0 \\times 10^{19}$."
+    },
+    "options": {
+      "A": { "uz": "$30$", "ru": "$30$", "en": "$30$" },
+      "B": { "uz": "$90$", "ru": "$90$", "en": "$90$" },
+      "C": { "uz": "$3$", "ru": "$3$", "en": "$3$" },
+      "D": { "uz": "$10$", "ru": "$10$", "en": "$10$" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": [
+          "$9.0 \\div 3.0 = 3$.",
+          "$10^{20} \\div 10^{19} = 10^1$.",
+          "$3 \\times 10 = 30$."
+        ],
+        "final_answer": "30"
+      },
+      {
+        "method": "formula",
+        "steps": [
+          "$\\frac{9.0}{3.0} \\times 10^{20-19}$.",
+          "$3 \\times 10 = 30$."
+        ],
+        "final_answer": "30"
+      }
+    ],
+    "explanation": {
+      "uz": "Natija $30$ ga teng.",
+      "ru": "Результат равен $30$.",
+      "en": "The result is $30$."
+    }
+  }
+]
+[
+  {
+    "id": "math-88-corrected",
+    "number": 88,
+    "subject": "matematika",
+    "topic": "Sonlar ustida amallar",
+    "tags": ["bo'lish", "standart_ko'rinish", "ilmiy_ifoda"],
+    "question": {
+      "uz": "$482,1 \\cdot 10^{20} : 6,02 \\cdot 10^{21}$ ifodani hisoblang.",
+      "ru": "$482,1 \\cdot 10^{20} : 6,02 \\cdot 10^{21}$ вычислите выражение.",
+      "en": "Calculate the expression $482.1 \\cdot 10^{20} : 6.02 \\cdot 10^{21}$."
+    },
+    "options": {
+      "A": { "uz": "$0.8$", "ru": "$0.8$", "en": "$0.8$" },
+      "B": { "uz": "$8$", "ru": "$8$", "en": "$8$" },
+      "C": { "uz": "$80$", "ru": "$80$", "en": "$80$" },
+      "D": { "uz": "$16$", "ru": "$16$", "en": "$16$" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$482,1 \\div 6,02 \\approx 80$", "$80 \\cdot 10^{20-21} = 8$"],
+        "final_answer": "8"
+      }
+    ],
+    "explanation": {
+      "uz": "Avval $482,1 \\div 6,02 \\approx 80$, so‘ng $10^{20} : 10^{21} = 10^{-1}$. Natija $8$.",
+      "ru": "Сначала $482,1 \\div 6,02 \\approx 80$, затем $10^{20} : 10^{21} = 10^{-1}$. Результат $8$.",
+      "en": "First $482.1 \\div 6.02 \\approx 80$, then $10^{20} : 10^{21} = 10^{-1}$. Result: $8$."
+    }
+  },
+  {
+    "id": "math-89-corrected",
+    "number": 89,
+    "subject": "matematika",
+    "topic": "Sonlar ustida amallar",
+    "tags": ["bo'lish", "standart_ko'rinish", "ilmiy_ifoda"],
+    "question": {
+      "uz": "$301,0 \\cdot 10^{25} : 6,02 \\cdot 10^{23}$ ifodani hisoblang.",
+      "ru": "$301,0 \\cdot 10^{25} : 6,02 \\cdot 10^{23}$ вычислите выражение.",
+      "en": "Calculate the expression $301.0 \\cdot 10^{25} : 6.02 \\cdot 10^{23}$."
+    },
+    "options": {
+      "A": { "uz": "$50$", "ru": "$50$", "en": "$50$" },
+      "B": { "uz": "$500$", "ru": "$500$", "en": "$500$" },
+      "C": { "uz": "$5$", "ru": "$5$", "en": "$5$" },
+      "D": { "uz": "$0.5$", "ru": "$0.5$", "en": "$0.5$" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$301,0 \\div 6,02 \\approx 50$", "$50 \\cdot 10^{25-23} = 500$"],
+        "final_answer": "500"
+      }
+    ],
+    "explanation": {
+      "uz": "Avval $301,0 \\div 6,02 \\approx 50$, keyin $10^{25} : 10^{23} = 10^2$. Natija $500$.",
+      "ru": "Сначала $301,0 \\div 6,02 \\approx 50$, затем $10^{25} : 10^{23} = 10^2$. Результат $500$.",
+      "en": "First $301.0 \\div 6.02 \\approx 50$, then $10^{25} : 10^{23} = 10^2$. Result: $500$."
+    }
+  },
+  {
+    "id": "math-90-corrected",
+    "number": 90,
+    "subject": "matematika",
+    "topic": "Sonlar ustida amallar",
+    "tags": ["bo'lish", "standart_ko'rinish", "ilmiy_ifoda"],
+    "question": {
+      "uz": "$150,5 \\cdot 10^{18} : 6,02 \\cdot 10^{19}$ ifodani hisoblang.",
+      "ru": "$150,5 \\cdot 10^{18} : 6,02 \\cdot 10^{19}$ вычислите выражение.",
+      "en": "Calculate the expression $150.5 \\cdot 10^{18} : 6.02 \\cdot 10^{19}$."
+    },
+    "options": {
+      "A": { "uz": "$25$", "ru": "$25$", "en": "$25$" },
+      "B": { "uz": "$2.5$", "ru": "$2.5$", "en": "$2.5$" },
+      "C": { "uz": "$0.25$", "ru": "$0.25$", "en": "$0.25$" },
+      "D": { "uz": "$250$", "ru": "$250$", "en": "$250$" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$150,5 \\div 6,02 \\approx 25$", "$25 \\cdot 10^{18-19} = 2.5$"],
+        "final_answer": "2.5"
+      }
+    ],
+    "explanation": {
+      "uz": "Avval $150,5 \\div 6,02 \\approx 25$, so‘ng $10^{18} : 10^{19} = 10^{-1}$. Natija $2.5$.",
+      "ru": "Сначала $150,5 \\div 6,02 \\approx 25$, затем $10^{18} : 10^{19} = 10^{-1}$. Результат $2.5$.",
+      "en": "First $150.5 \\div 6.02 \\approx 25$, then $10^{18} : 10^{19} = 10^{-1}$. Result: $2.5$."
+    }
+  },
+  {
+    "id": "math-91-corrected",
+    "number": 91,
+    "subject": "matematika",
+    "topic": "Sonlar ustida amallar",
+    "tags": ["bo'lish", "standart_ko'rinish", "ilmiy_ifoda"],
+    "question": {
+      "uz": "$72,24 \\cdot 10^{21} : 6,02 \\cdot 10^{22}$ ifodani hisoblang.",
+      "ru": "$72,24 \\cdot 10^{21} : 6,02 \\cdot 10^{22}$ вычислите выражение.",
+      "en": "Calculate the expression $72.24 \\cdot 10^{21} : 6.02 \\cdot 10^{22}$."
+    },
+    "options": {
+      "A": { "uz": "$1.2$", "ru": "$1.2$", "en": "$1.2$" },
+      "B": { "uz": "$0.12$", "ru": "$0.12$", "en": "$0.12$" },
+      "C": { "uz": "$12$", "ru": "$12$", "en": "$12$" },
+      "D": { "uz": "$120$", "ru": "$120$", "en": "$120$" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$72,24 \\div 6,02 \\approx 12$", "$12 \\cdot 10^{21-22} = 1.2$"],
+        "final_answer": "1.2"
+      }
+    ],
+    "explanation": {
+      "uz": "Avval $72,24 \\div 6,02 \\approx 12$, so‘ng $10^{21} : 10^{22} = 10^{-1}$. Natija $1.2$.",
+      "ru": "Сначала $72,24 \\div 6,02 \\approx 12$, затем $10^{21} : 10^{22} = 10^{-1}$. Результат $1.2$.",
+      "en": "First $72.24 \\div 6.02 \\approx 12$, then $10^{21} : 10^{22} = 10^{-1}$. Result: $1.2$."
+    }
+  },
+  {
+    "id": "math-92-corrected",
+    "number": 92,
+    "subject": "matematika",
+    "topic": "Sonlar ustida amallar",
+    "tags": ["bo'lish", "standart_ko'rinish", "ilmiy_ifoda"],
+    "question": {
+      "uz": "$241,0 \\cdot 10^{24} : 6,02 \\cdot 10^{23}$ ifodani hisoblang.",
+      "ru": "$241,0 \\cdot 10^{24} : 6,02 \\cdot 10^{23}$ вычислите выражение.",
+      "en": "Calculate the expression $241.0 \\cdot 10^{24} : 6.02 \\cdot 10^{23}$."
+    },
+    "options": {
+      "A": { "uz": "$4$", "ru": "$4$", "en": "$4$" },
+      "B": { "uz": "$40$", "ru": "$40$", "en": "$40$" },
+      "C": { "uz": "$400$", "ru": "$400$", "en": "$400$" },
+      "D": { "uz": "$0.4$", "ru": "$0.4$", "en": "$0.4$" }
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$241,0 \\div 6,02 \\approx 40$", "$40 \\cdot 10^{24-23} = 400$"],
+        "final_answer": "400"
+      }
+    ],
+    "explanation": {
+      "uz": "Avval $241,0 \\div 6,02 \\approx 40$, keyin $10^{24} : 10^{23} = 10^1$. Natija $400$.",
+      "ru": "Сначала $241,0 \\div 6,02 \\approx 40$, затем $10^{24} : 10^{23} = 10^1$. Результат $400$.",
+      "en": "First $241.0 \\div 6.02 \\approx 40$, then $10^{24} : 10^{23} = 10^1$. Result: $400$."
+    }
+  }
+]
+[
+  {
+    "id": "math-89-corrected",
+    "number": 89,
+    "subject": "matematika",
+    "topic": "Proporsiya",
+    "tags": ["proporsiya", "noma'lumni topish", "kasr"],
+    "question": {
+      "uz": "Quyidagi proporsiyani hisoblang va noma'lum $X$ ning qiymatini toping: $\\frac{54}{X} = \\frac{27}{6}$",
+      "ru": "Решите пропорцию и найдите $X$: $\\frac{54}{X} = \\frac{27}{6}$",
+      "en": "Solve the proportion and find $X$: $\\frac{54}{X} = \\frac{27}{6}$"
+    },
+    "options": {
+      "A": { "uz": "$5$", "ru": "$5$", "en": "$5$" },
+      "B": { "uz": "$8$", "ru": "$8$", "en": "$8$" },
+      "C": { "uz": "$24$", "ru": "$24$", "en": "$24$" },
+      "D": { "uz": "$12$", "ru": "$12$", "en": "$12$" }
+    },
+    "answer": "D",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "cross-multiplication",
+        "steps": ["$54 \\times 6 = 27 \\times X$", "$324 = 27X$", "$X = 12$"],
+        "final_answer": "12"
+      }
+    ],
+    "explanation": {
+      "uz": "Kesishma ko‘paytma usuli: $54 \\cdot 6 = 27 \\cdot X$, undan $X=12$.",
+      "ru": "Метод перекрёстного умножения: $54 \\cdot 6 = 27 \\cdot X$, значит $X=12$.",
+      "en": "By cross multiplication: $54 \\cdot 6 = 27 \\cdot X$, so $X=12$."
+    }
+  },
+  {
+    "id": "math-90-corrected",
+    "number": 90,
+    "subject": "matematika",
+    "topic": "Proporsiya",
+    "tags": ["proporsiya", "noma'lumni topish", "kasr"],
+    "question": {
+      "uz": "Quyidagi proporsiyani hisoblang va noma'lum $X$ ning qiymatini toping: $\\frac{48}{X} = \\frac{24}{8}$",
+      "ru": "Решите пропорцию и найдите $X$: $\\frac{48}{X} = \\frac{24}{8}$",
+      "en": "Solve the proportion and find $X$: $\\frac{48}{X} = \\frac{24}{8}$"
+    },
+    "options": {
+      "A": { "uz": "$14$", "ru": "$14$", "en": "$14$" },
+      "B": { "uz": "$16$", "ru": "$16$", "en": "$16$" },
+      "C": { "uz": "$10$", "ru": "$10$", "en": "$10$" },
+      "D": { "uz": "$12$", "ru": "$12$", "en": "$12$" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "cross-multiplication",
+        "steps": ["$48 \\times 8 = 24 \\times X$", "$384 = 24X$", "$X = 16$"],
+        "final_answer": "16"
+      }
+    ],
+    "explanation": {
+      "uz": "Kesishma ko‘paytma: $48 \\cdot 8 = 24 \\cdot X$, shundan $X=16$.",
+      "ru": "По перекрёстному умножению: $48 \\cdot 8 = 24 \\cdot X$, значит $X=16$.",
+      "en": "By cross multiplication: $48 \\cdot 8 = 24 \\cdot X$, so $X=16$."
+    }
+  },
+  {
+    "id": "math-91-corrected",
+    "number": 91,
+    "subject": "matematika",
+    "topic": "Proporsiya",
+    "tags": ["proporsiya", "noma'lumni topish", "kasr"],
+    "question": {
+      "uz": "Quyidagi proporsiyani hisoblang va noma'lum $X$ ning qiymatini toping: $\\frac{63}{X} = \\frac{21}{7}$",
+      "ru": "Решите пропорцию и найдите $X$: $\\frac{63}{X} = \\frac{21}{7}$",
+      "en": "Solve the proportion and find $X$: $\\frac{63}{X} = \\frac{21}{7}$"
+    },
+    "options": {
+      "A": { "uz": "$15$", "ru": "$15$", "en": "$15$" },
+      "B": { "uz": "$18$", "ru": "$18$", "en": "$18$" },
+      "C": { "uz": "$21$", "ru": "$21$", "en": "$21$" },
+      "D": { "uz": "$12$", "ru": "$12$", "en": "$12$" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "cross-multiplication",
+        "steps": ["$63 \\times 7 = 21 \\times X$", "$441 = 21X$", "$X = 21$"],
+        "final_answer": "21"
+      }
+    ],
+    "explanation": {
+      "uz": "Kesishma ko‘paytma: $63 \\cdot 7 = 21 \\cdot X$, shundan $X=21$.",
+      "ru": "По перекрёстному умножению: $63 \\cdot 7 = 21 \\cdot X$, значит $X=21$.",
+      "en": "By cross multiplication: $63 \\cdot 7 = 21 \\cdot X$, so $X=21$."
+    }
+  },
+  {
+    "id": "math-92-corrected",
+    "number": 92,
+    "subject": "matematika",
+    "topic": "Proporsiya",
+    "tags": ["proporsiya", "noma'lumni topish", "kasr"],
+    "question": {
+      "uz": "Quyidagi proporsiyani hisoblang va noma'lum $X$ ning qiymatini toping: $\\frac{40}{X} = \\frac{20}{5}$",
+      "ru": "Решите пропорцию и найдите $X$: $\\frac{40}{X} = \\frac{20}{5}$",
+      "en": "Solve the proportion and find $X$: $\\frac{40}{X} = \\frac{20}{5}$"
+    },
+    "options": {
+      "A": { "uz": "$8$", "ru": "$8$", "en": "$8$" },
+      "B": { "uz": "$10$", "ru": "$10$", "en": "$10$" },
+      "C": { "uz": "$12$", "ru": "$12$", "en": "$12$" },
+      "D": { "uz": "$15$", "ru": "$15$", "en": "$15$" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "cross-multiplication",
+        "steps": ["$40 \\times 5 = 20 \\times X$", "$200 = 20X$", "$X = 10$"],
+        "final_answer": "10"
+      }
+    ],
+    "explanation": {
+      "uz": "Kesishma ko‘paytma: $40 \\cdot 5 = 20 \\cdot X$, shundan $X=10$.",
+      "ru": "По перекрёстному умножению: $40 \\cdot 5 = 20 \\cdot X$, значит $X=10$.",
+      "en": "By cross multiplication: $40 \\cdot 5 = 20 \\cdot X$, so $X=10$."
+    }
+  },
+  {
+    "id": "math-93-corrected",
+    "number": 93,
+    "subject": "matematika",
+    "topic": "Proporsiya",
+    "tags": ["proporsiya", "noma'lumni topish", "kasr"],
+    "question": {
+      "uz": "Quyidagi proporsiyani hisoblang va noma'lum $X$ ning qiymatini toping: $\\frac{72}{X} = \\frac{36}{9}$",
+      "ru": "Решите пропорцию и найдите $X$: $\\frac{72}{X} = \\frac{36}{9}$",
+      "en": "Solve the proportion and find $X$: $\\frac{72}{X} = \\frac{36}{9}$"
+    },
+    "options": {
+      "A": { "uz": "$12$", "ru": "$12$", "en": "$12$" },
+      "B": { "uz": "$18$", "ru": "$18$", "en": "$18$" },
+      "C": { "uz": "$24$", "ru": "$24$", "en": "$24$" },
+      "D": { "uz": "$16$", "ru": "$16$", "en": "$16$" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "cross-multiplication",
+        "steps": ["$72 \\times 9 = 36 \\times X$", "$648 = 36X$", "$X = 18$"],
+        "final_answer": "18"
+      }
+    ],
+    "explanation": {
+      "uz": "Kesishma ko‘paytma: $72 \\cdot 9 = 36 \\cdot X$, shundan $X=18$.",
+      "ru": "По перекрёстному умножению: $72 \\cdot 9 = 36 \\cdot X$, значит $X=18$.",
+      "en": "By cross multiplication: $72 \\cdot 9 = 36 \\cdot X$, so $X=18$."
+    }
+  }
+]
+[
+  {
+    "id": "math-97-corrected",
+    "number": 97,
+    "subject": "matematika",
+    "topic": "kasrli ifodalar",
+    "tags": ["kasr", "ifoda", "hisoblash"],
+    "question": {
+      "uz": "$\\frac{10 \\cdot 8,314 \\cdot 50}{10 \\cdot 83.14}$ ifodani hisoblang.",
+      "ru": "$\\frac{10 \\cdot 8,314 \\cdot 50}{10 \\cdot 83.14}$ выражение вычислите.",
+      "en": "Calculate $\\frac{10 \\cdot 8.314 \\cdot 50}{10 \\cdot 83.14}$."
+    },
+    "options": {
+      "A": { "uz": "6", "ru": "6", "en": "6" },
+      "B": { "uz": "8", "ru": "8", "en": "8" },
+      "C": { "uz": "5", "ru": "5", "en": "5" },
+      "D": { "uz": "2", "ru": "2", "en": "2" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "qisqartirish",
+        "steps": ["10 qisqaradi.", "831.4 ÷ 83.14 = 10.", "10 ÷ 10 = 1."],
+        "final_answer": "5"
+      }
+    ],
+    "explanation": {
+      "uz": "Ifoda qisqartirilganda natija 5 chiqadi.",
+      "ru": "После сокращения выражения получается 5.",
+      "en": "After simplification, the result is 5."
+    }
+  },
+  {
+    "id": "math-98-corrected",
+    "number": 98,
+    "subject": "matematika",
+    "topic": "kasrli ifodalar",
+    "tags": ["kasr", "ifoda", "hisoblash"],
+    "question": {
+      "uz": "$\\frac{20 \\cdot 9,81 \\cdot 40}{10 \\cdot 78.48}$ ifodani hisoblang.",
+      "ru": "$\\frac{20 \\cdot 9,81 \\cdot 40}{10 \\cdot 78.48}$ выражение вычислите.",
+      "en": "Calculate $\\frac{20 \\cdot 9.81 \\cdot 40}{10 \\cdot 78.48}$."
+    },
+    "options": {
+      "A": { "uz": "8", "ru": "8", "en": "8" },
+      "B": { "uz": "10", "ru": "10", "en": "10" },
+      "C": { "uz": "12", "ru": "12", "en": "12" },
+      "D": { "uz": "4", "ru": "4", "en": "4" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "qisqartirish",
+        "steps": ["20/10 = 2.", "2*9.81*40 = 784.8.", "784.8 ÷ 78.48 = 10."],
+        "final_answer": "10"
+      }
+    ],
+    "explanation": {
+      "uz": "Qisqartirish orqali 10 hosil bo‘ladi.",
+      "ru": "После сокращения получается 10.",
+      "en": "After simplification, the result is 10."
+    }
+  },
+  {
+    "id": "math-99-corrected",
+    "number": 99,
+    "subject": "matematika",
+    "topic": "kasrli ifodalar",
+    "tags": ["kasr", "hisoblash", "matematika"],
+    "question": {
+      "uz": "$\\frac{15 \\cdot 6,28 \\cdot 30}{5 \\cdot 56.52}$ ifodani hisoblang.",
+      "ru": "$\\frac{15 \\cdot 6,28 \\cdot 30}{5 \\cdot 56.52}$ выражение вычислите.",
+      "en": "Calculate $\\frac{15 \\cdot 6.28 \\cdot 30}{5 \\cdot 56.52}$."
+    },
+    "options": {
+      "A": { "uz": "4", "ru": "4", "en": "4" },
+      "B": { "uz": "10", "ru": "10", "en": "10" },
+      "C": { "uz": "6", "ru": "6", "en": "6" },
+      "D": { "uz": "7", "ru": "7", "en": "7" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "qisqartirish",
+        "steps": ["15/5=3.", "3*6.28*30=565.2.", "565.2 ÷ 56.52 = 10."],
+        "final_answer": "10"
+      }
+    ],
+    "explanation": {
+      "uz": "Ifoda soddalashtirilganda 10 chiqadi.",
+      "ru": "После упрощения выражение равно 10.",
+      "en": "The expression simplifies to 10."
+    }
+  },
+  {
+    "id": "math-100-corrected",
+    "number": 100,
+    "subject": "matematika",
+    "topic": "kasrli ifodalar",
+    "tags": ["hisoblash", "matematika", "kasr"],
+    "question": {
+      "uz": "$\\frac{12 \\cdot 7,5 \\cdot 40}{8 \\cdot 45}$ ifodani hisoblang.",
+      "ru": "$\\frac{12 \\cdot 7,5 \\cdot 40}{8 \\cdot 45}$ выражение вычислите.",
+      "en": "Calculate $\\frac{12 \\cdot 7.5 \\cdot 40}{8 \\cdot 45}$."
+    },
+    "options": {
+      "A": { "uz": "10", "ru": "10", "en": "10" },
+      "B": { "uz": "15", "ru": "15", "en": "15" },
+      "C": { "uz": "20", "ru": "20", "en": "20" },
+      "D": { "uz": "5", "ru": "5", "en": "5" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "oddiy bo‘lish",
+        "steps": ["12/8 = 1.5.", "1.5*7.5*40 = 450.", "450 ÷ 45 = 10."],
+        "final_answer": "10"
+      }
+    ],
+    "explanation": {
+      "uz": "Hisoblashdan so‘ng natija 10 chiqadi.",
+      "ru": "После вычисления результат равен 10.",
+      "en": "After calculation, the result is 10."
+    }
+  },
+  {
+    "id": "math-101-corrected",
+    "number": 101,
+    "subject": "matematika",
+    "topic": "kasrli ifodalar",
+    "tags": ["matematika", "hisoblash", "kasr"],
+    "question": {
+      "uz": "$\\frac{25 \\cdot 3,6 \\cdot 60}{15 \\cdot 90}$ ifodani hisoblang.",
+      "ru": "$\\frac{25 \\cdot 3,6 \\cdot 60}{15 \\cdot 90}$ выражение вычислите.",
+      "en": "Calculate $\\frac{25 \\cdot 3.6 \\cdot 60}{15 \\cdot 90}$."
+    },
+    "options": {
+      "A": { "uz": "3", "ru": "3", "en": "3" },
+      "B": { "uz": "4", "ru": "4", "en": "4" },
+      "C": { "uz": "9", "ru": "9", "en": "9" },
+      "D": { "uz": "12", "ru": "12", "en": "12" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "qisqartirish",
+        "steps": ["25/15 ≈ 1.666.", "1.666*3.6*60 ≈ 360.", "360 ÷ 90 = 4."],
+        "final_answer": "4"
+      }
+    ],
+    "explanation": {
+      "uz": "Ifoda 4 ga teng bo‘ladi.",
+      "ru": "Выражение равно 4.",
+      "en": "The expression equals 4."
+    }
+  }
+]
+[
+  {
+    "id": "math-113-corrected",
+    "number": 113,
+    "subject": "matematika",
+    "topic": "chiziqli tenglama",
+    "tags": ["tenglama", "algebra", "hisoblash"],
+    "question": {
+      "uz": "Quyidagi tenglamani hisoblang va noma'lum $X$ ning qiymatini toping: $30-\\mathrm{X}=18$",
+      "ru": "Решите уравнение и найдите значение $X$: $30-\\mathrm{X}=18$",
+      "en": "Solve the equation and find the value of $X$: $30-\\mathrm{X}=18$"
+    },
+    "options": {
+      "A": { "uz": "12", "ru": "12", "en": "12" },
+      "B": { "uz": "10", "ru": "10", "en": "10" },
+      "C": { "uz": "15", "ru": "15", "en": "15" },
+      "D": { "uz": "20", "ru": "20", "en": "20" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "algebra",
+        "steps": ["$30 - X = 18$", "$X = 30 - 18$", "$X = 12$"],
+        "final_answer": "12"
+      }
+    ],
+    "explanation": {
+      "uz": "30 dan 18 ayirilsa, X=12 bo‘ladi.",
+      "ru": "Из 30 вычитаем 18, получаем X=12.",
+      "en": "Subtract 18 from 30 to get X=12."
+    }
+  },
+  {
+    "id": "math-114-corrected",
+    "number": 114,
+    "subject": "matematika",
+    "topic": "chiziqli tenglama",
+    "tags": ["tenglama", "algebra", "hisoblash"],
+    "question": {
+      "uz": "Quyidagi tenglamani hisoblang va noma'lum $X$ ning qiymatini toping: $45-\\mathrm{X}=27$",
+      "ru": "Решите уравнение и найдите значение $X$: $45-\\mathrm{X}=27$",
+      "en": "Solve the equation and find the value of $X$: $45-\\mathrm{X}=27$"
+    },
+    "options": {
+      "A": { "uz": "18", "ru": "18", "en": "18" },
+      "B": { "uz": "22", "ru": "22", "en": "22" },
+      "C": { "uz": "20", "ru": "20", "en": "20" },
+      "D": { "uz": "25", "ru": "25", "en": "25" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "algebra",
+        "steps": ["$45 - X = 27$", "$X = 45 - 27$", "$X = 18$"],
+        "final_answer": "18"
+      }
+    ],
+    "explanation": {
+      "uz": "45 dan 27 ayirilsa, X=18 bo‘ladi.",
+      "ru": "Из 45 вычитаем 27, получаем X=18.",
+      "en": "Subtract 27 from 45 to get X=18."
+    }
+  },
+  {
+    "id": "math-115-corrected",
+    "number": 115,
+    "subject": "matematika",
+    "topic": "chiziqli tenglama",
+    "tags": ["tenglama", "algebra", "hisoblash"],
+    "question": {
+      "uz": "Quyidagi tenglamani hisoblang va noma'lum $X$ ning qiymatini toping: $60-\\mathrm{X}=44$",
+      "ru": "Решите уравнение и найдите значение $X$: $60-\\mathrm{X}=44$",
+      "en": "Solve the equation and find the value of $X$: $60-\\mathrm{X}=44$"
+    },
+    "options": {
+      "A": { "uz": "12", "ru": "12", "en": "12" },
+      "B": { "uz": "14", "ru": "14", "en": "14" },
+      "C": { "uz": "16", "ru": "16", "en": "16" },
+      "D": { "uz": "18", "ru": "18", "en": "18" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "algebra",
+        "steps": ["$60 - X = 44$", "$X = 60 - 44$", "$X = 16$"],
+        "final_answer": "16"
+      }
+    ],
+    "explanation": {
+      "uz": "60 dan 44 ayirilsa, X=16 bo‘ladi.",
+      "ru": "Из 60 вычитаем 44, получаем X=16.",
+      "en": "Subtract 44 from 60 to get X=16."
+    }
+  },
+  {
+    "id": "math-116-corrected",
+    "number": 116,
+    "subject": "matematika",
+    "topic": "chiziqli tenglama",
+    "tags": ["tenglama", "algebra", "hisoblash"],
+    "question": {
+      "uz": "Quyidagi tenglamani hisoblang va noma'lum $X$ ning qiymatini toping: $80-\\mathrm{X}=65$",
+      "ru": "Решите уравнение и найдите значение $X$: $80-\\mathrm{X}=65$",
+      "en": "Solve the equation and find the value of $X$: $80-\\mathrm{X}=65$"
+    },
+    "options": {
+      "A": { "uz": "10", "ru": "10", "en": "10" },
+      "B": { "uz": "15", "ru": "15", "en": "15" },
+      "C": { "uz": "12", "ru": "12", "en": "12" },
+      "D": { "uz": "18", "ru": "18", "en": "18" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "algebra",
+        "steps": ["$80 - X = 65$", "$X = 80 - 65$", "$X = 15$"],
+        "final_answer": "15"
+      }
+    ],
+    "explanation": {
+      "uz": "80 dan 65 ayirilsa, X=15 bo‘ladi.",
+      "ru": "Из 80 вычитаем 65, получаем X=15.",
+      "en": "Subtract 65 from 80 to get X=15."
+    }
+  },
+  {
+    "id": "math-117-corrected",
+    "number": 117,
+    "subject": "matematika",
+    "topic": "chiziqli tenglama",
+    "tags": ["tenglama", "algebra", "hisoblash"],
+    "question": {
+      "uz": "Quyidagi tenglamani hisoblang va noma'lum $X$ ning qiymatini toping: $100-\\mathrm{X}=82$",
+      "ru": "Решите уравнение и найдите значение $X$: $100-\\mathrm{X}=82$",
+      "en": "Solve the equation and find the value of $X$: $100-\\mathrm{X}=82$"
+    },
+    "options": {
+      "A": { "uz": "15", "ru": "15", "en": "15" },
+      "B": { "uz": "18", "ru": "18", "en": "18" },
+      "C": { "uz": "20", "ru": "20", "en": "20" },
+      "D": { "uz": "25", "ru": "25", "en": "25" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "algebra",
+        "steps": ["$100 - X = 82$", "$X = 100 - 82$", "$X = 18$"],
+        "final_answer": "18"
+      }
+    ],
+    "explanation": {
+      "uz": "100 dan 82 ayirilsa, X=18 bo‘ladi.",
+      "ru": "Из 100 вычитаем 82, получаем X=18.",
+      "en": "Subtract 82 from 100 to get X=18."
+    }
+  }
+]
+[
+  {
+    "id": "math-152-corrected",
+    "number": 152,
+    "subject": "matematika",
+    "topic": "Tenglamalar",
+    "tags": ["tenglama", "algebra", "noma'lumni topish"],
+    "question": {
+      "uz": "$6 = \\frac{24 + x}{11 - x}$ tenglamani yeching va $x$ ning qiymatini toping.",
+      "ru": "$6 = \\frac{24 + x}{11 - x}$ уравнение решите и найдите значение $x$.",
+      "en": "Solve the equation $6 = \\frac{24 + x}{11 - x}$ and find the value of $x$."
+    },
+    "options": {
+      "A": { "uz": "$10$", "ru": "$10$", "en": "$10$" },
+      "B": { "uz": "$6$", "ru": "$6$", "en": "$6$" },
+      "C": { "uz": "$8$", "ru": "$8$", "en": "$8$" },
+      "D": { "uz": "$5$", "ru": "$5$", "en": "$5$" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$6(11-x)=24+x$", "$66-6x=24+x$", "$42=7x$", "$x=6$"],
+        "final_answer": "6"
+      },
+      {
+        "method": "formula",
+        "steps": ["Sonlarni ko‘paytiramiz va yig‘amiz", "Yechimdan $x=6$ chiqadi"],
+        "final_answer": "6"
+      }
+    ],
+    "explanation": {
+      "uz": "Tenglamani ochamiz: $66-6x=24+x$. O‘tkazib yechamiz: $42=7x$. Demak $x=6$.",
+      "ru": "Раскроем скобки: $66-6x=24+x$. Переносим: $42=7x$. Тогда $x=6$.",
+      "en": "Expand: $66-6x=24+x$. Rearranging: $42=7x$. Hence $x=6$."
+    }
+  },
+  {
+    "id": "math-153-corrected",
+    "number": 153,
+    "subject": "matematika",
+    "topic": "Tenglamalar",
+    "tags": ["tenglama", "algebra", "noma'lumni topish"],
+    "question": {
+      "uz": "$5 = \\frac{20 + x}{9 - x}$ tenglamani yeching va $x$ ning qiymatini toping.",
+      "ru": "$5 = \\frac{20 + x}{9 - x}$ уравнение решите и найдите значение $x$.",
+      "en": "Solve the equation $5 = \\frac{20 + x}{9 - x}$ and find the value of $x$."
+    },
+    "options": {
+      "A": { "uz": "$4$", "ru": "$4$", "en": "$4$" },
+      "B": { "uz": "$5$", "ru": "$5$", "en": "$5$" },
+      "C": { "uz": "$6$", "ru": "$6$", "en": "$6$" },
+      "D": { "uz": "$7$", "ru": "$7$", "en": "$7$" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$5(9-x)=20+x$", "$45-5x=20+x$", "$25=6x$", "$x≈4.17$"],
+        "final_answer": "4"
+      },
+      {
+        "method": "formula",
+        "steps": ["Ko‘paytirib soddalashtiramiz", "Natija $x≈4.17$ bo‘ladi"],
+        "final_answer": "4"
+      }
+    ],
+    "explanation": {
+      "uz": "Hisoblanganda $x≈4.17$ chiqadi, eng yaqin butun qiymat $4$.",
+      "ru": "При вычислении $x≈4.17$, ближайшее целое $4$.",
+      "en": "The solution gives $x≈4.17$, closest integer is $4$."
+    }
+  },
+  {
+    "id": "math-154-corrected",
+    "number": 154,
+    "subject": "matematika",
+    "topic": "Tenglamalar",
+    "tags": ["tenglama", "algebra", "noma'lumni topish"],
+    "question": {
+      "uz": "$4 = \\frac{18 + x}{10 - x}$ tenglamani yeching va $x$ ning qiymatini toping.",
+      "ru": "$4 = \\frac{18 + x}{10 - x}$ уравнение решите и найдите значение $x$.",
+      "en": "Solve the equation $4 = \\frac{18 + x}{10 - x}$ and find the value of $x$."
+    },
+    "options": {
+      "A": { "uz": "$4$", "ru": "$4$", "en": "$4$" },
+      "B": { "uz": "$5$", "ru": "$5$", "en": "$5$" },
+      "C": { "uz": "$6$", "ru": "$6$", "en": "$6$" },
+      "D": { "uz": "$7$", "ru": "$7$", "en": "$7$" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$4(10-x)=18+x$", "$40-4x=18+x$", "$22=5x$", "$x≈4.4$"],
+        "final_answer": "4"
+      },
+      {
+        "method": "formula",
+        "steps": ["Tenglamani ochamiz va qisqartiramiz", "Natija $x≈4.4$"],
+        "final_answer": "4"
+      }
+    ],
+    "explanation": {
+      "uz": "Hisoblashdan $x≈4.4$ chiqadi, variantlar orasida $4$ mos keladi.",
+      "ru": "Вычисления дают $x≈4.4$, в вариантах подходит $4$.",
+      "en": "Calculation gives $x≈4.4$, matching option is $4$."
+    }
+  },
+  {
+    "id": "math-155-corrected",
+    "number": 155,
+    "subject": "matematika",
+    "topic": "Tenglamalar",
+    "tags": ["tenglama", "algebra", "noma'lumni topish"],
+    "question": {
+      "uz": "$7 = \\frac{28 + x}{12 - x}$ tenglamani yeching va $x$ ning qiymatini toping.",
+      "ru": "$7 = \\frac{28 + x}{12 - x}$ уравнение решите и найдите значение $x$.",
+      "en": "Solve the equation $7 = \\frac{28 + x}{12 - x}$ and find the value of $x$."
+    },
+    "options": {
+      "A": { "uz": "$7$", "ru": "$7$", "en": "$7$" },
+      "B": { "uz": "$8$", "ru": "$8$", "en": "$8$" },
+      "C": { "uz": "$6$", "ru": "$6$", "en": "$6$" },
+      "D": { "uz": "$9$", "ru": "$9$", "en": "$9$" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$7(12-x)=28+x$", "$84-7x=28+x$", "$56=8x$", "$x=7$"],
+        "final_answer": "7"
+      },
+      {
+        "method": "formula",
+        "steps": ["Sonlarni ko‘paytiramiz va yig‘amiz", "Natija $x=7$"],
+        "final_answer": "7"
+      }
+    ],
+    "explanation": {
+      "uz": "Tenglamani yechib $x=7$ topiladi.",
+      "ru": "Решая уравнение, получаем $x=7$.",
+      "en": "Solving the equation gives $x=7$."
+    }
+  },
+  {
+    "id": "math-156-corrected",
+    "number": 156,
+    "subject": "matematika",
+    "topic": "Tenglamalar",
+    "tags": ["tenglama", "algebra", "noma'lumni topish"],
+    "question": {
+      "uz": "$3 = \\frac{15 + x}{9 - x}$ tenglamani yeching va $x$ ning qiymatini toping.",
+      "ru": "$3 = \\frac{15 + x}{9 - x}$ уравнение решите и найдите значение $x$.",
+      "en": "Solve the equation $3 = \\frac{15 + x}{9 - x}$ and find the value of $x$."
+    },
+    "options": {
+      "A": { "uz": "$3$", "ru": "$3$", "en": "$3$" },
+      "B": { "uz": "$4$", "ru": "$4$", "en": "$4$" },
+      "C": { "uz": "$5$", "ru": "$5$", "en": "$5$" },
+      "D": { "uz": "$6$", "ru": "$6$", "en": "$6$" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$3(9-x)=15+x$", "$27-3x=15+x$", "$12=4x$", "$x=3$"],
+        "final_answer": "3"
+      },
+      {
+        "method": "formula",
+        "steps": ["Ko‘paytirib soddalashtiramiz", "Natija $x=3$ bo‘ladi"],
+        "final_answer": "3"
+      }
+    ],
+    "explanation": {
+      "uz": "Hisoblanganda $x=3$ chiqadi.",
+      "ru": "При решении получается $x=3$.",
+      "en": "The solution is $x=3$."
+    }
+  }
+]
+[
+  {
+    "id": "math-163-corrected",
+    "number": 163,
+    "subject": "matematika",
+    "topic": "Proportsiyalar",
+    "tags": ["teskari proportsiya", "ishchilar", "masala"],
+    "question": {
+      "uz": "Bir gektar bug'doy dalasini 5 ta dehqon 10 kunda o'rib tugatsa, 25 ta dehqon necha kunda o'ra oladi?",
+      "ru": "Если 5 крестьян скосят гектар пшеницы за 10 дней, за сколько дней 25 крестьян скосит его?",
+      "en": "If 5 farmers harvest 1 hectare of wheat in 10 days, how many days will 25 farmers need?"
+    },
+    "options": {
+      "A": { "uz": "$10$", "ru": "$10$", "en": "$10$" },
+      "B": { "uz": "$2$", "ru": "$2$", "en": "$2$" },
+      "C": { "uz": "$5$", "ru": "$5$", "en": "$5$" },
+      "D": { "uz": "$6$", "ru": "$6$", "en": "$6$" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$5 \\cdot 10 = 50$ dehqon-kun", "$50 : 25 = 2$ kun"],
+        "final_answer": "2"
+      },
+      {
+        "method": "formula",
+        "steps": ["$t = \\frac{n_1 \\cdot t_1}{n_2}$", "$t = \\frac{5 \\cdot 10}{25} = 2$"],
+        "final_answer": "2"
+      }
+    ],
+    "explanation": {
+      "uz": "5 dehqon 10 kunda ishlasa, 25 dehqon 2 kunda tugatadi.",
+      "ru": "5 крестьян за 10 дней, значит 25 крестьян за 2 дня.",
+      "en": "5 farmers take 10 days, so 25 farmers take 2 days."
+    }
+  },
+  {
+    "id": "math-164-corrected",
+    "number": 164,
+    "subject": "matematika",
+    "topic": "Proportsiyalar",
+    "tags": ["teskari proportsiya", "ishchilar", "masala"],
+    "question": {
+      "uz": "Bir ko'chani 8 ishchi 12 kunda qurib bitirsa, 24 ishchi necha kunda qurib bitiradi?",
+      "ru": "Если 8 рабочих построят улицу за 12 дней, за сколько дней её построят 24 рабочих?",
+      "en": "If 8 workers build a street in 12 days, how many days will 24 workers need?"
+    },
+    "options": {
+      "A": { "uz": "$6$", "ru": "$6$", "en": "$6$" },
+      "B": { "uz": "$4$", "ru": "$4$", "en": "$4$" },
+      "C": { "uz": "$8$", "ru": "$8$", "en": "$8$" },
+      "D": { "uz": "$12$", "ru": "$12$", "en": "$12$" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$8 \\cdot 12 = 96$ ishchi-kun", "$96 : 24 = 4$ kun"],
+        "final_answer": "4"
+      },
+      {
+        "method": "formula",
+        "steps": ["$t = \\frac{n_1 \\cdot t_1}{n_2}$", "$t = \\frac{8 \\cdot 12}{24} = 4$"],
+        "final_answer": "4"
+      }
+    ],
+    "explanation": {
+      "uz": "8 ishchi 12 kunda tugatsa, 24 ishchi 4 kunda tugatadi.",
+      "ru": "8 рабочих за 12 дней, значит 24 рабочих за 4 дня.",
+      "en": "8 workers take 12 days, so 24 workers take 4 days."
+    }
+  },
+  {
+    "id": "math-165-corrected",
+    "number": 165,
+    "subject": "matematika",
+    "topic": "Proportsiyalar",
+    "tags": ["teskari proportsiya", "ishchilar", "masala"],
+    "question": {
+      "uz": "Bir hovuzni 6 ishchi 15 kunda qazib tugatsa, 30 ishchi necha kunda qazib tugatadi?",
+      "ru": "Если 6 рабочих выкопают бассейн за 15 дней, за сколько дней 30 рабочих закончат?",
+      "en": "If 6 workers dig a pool in 15 days, how many days will 30 workers need?"
+    },
+    "options": {
+      "A": { "uz": "$5$", "ru": "$5$", "en": "$5$" },
+      "B": { "uz": "$4$", "ru": "$4$", "en": "$4$" },
+      "C": { "uz": "$3$", "ru": "$3$", "en": "$3$" },
+      "D": { "uz": "$6$", "ru": "$6$", "en": "$6$" }
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$6 \\cdot 15 = 90$ ishchi-kun", "$90 : 30 = 3$ kun"],
+        "final_answer": "3"
+      },
+      {
+        "method": "formula",
+        "steps": ["$t = \\frac{n_1 \\cdot t_1}{n_2}$", "$t = \\frac{6 \\cdot 15}{30} = 3$"],
+        "final_answer": "3"
+      }
+    ],
+    "explanation": {
+      "uz": "6 ishchi 15 kunda, 30 ishchi esa 3 kunda tugatadi.",
+      "ru": "6 рабочих за 15 дней, 30 рабочих за 3 дня.",
+      "en": "6 workers take 15 days, so 30 workers take 3 days."
+    }
+  },
+  {
+    "id": "math-166-corrected",
+    "number": 166,
+    "subject": "matematika",
+    "topic": "Proportsiyalar",
+    "tags": ["teskari proportsiya", "ishchilar", "masala"],
+    "question": {
+      "uz": "Bir dala ishini 12 dehqon 18 kunda bajarsa, 36 dehqon necha kunda bajaradi?",
+      "ru": "Если 12 крестьян выполнят работу за 18 дней, за сколько дней её выполнят 36 крестьян?",
+      "en": "If 12 farmers complete a task in 18 days, how many days will 36 farmers need?"
+    },
+    "options": {
+      "A": { "uz": "$9$", "ru": "$9$", "en": "$9$" },
+      "B": { "uz": "$12$", "ru": "$12$", "en": "$12$" },
+      "C": { "uz": "$6$", "ru": "$6$", "en": "$6$" },
+      "D": { "uz": "$18$", "ru": "$18$", "en": "$18$" }
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$12 \\cdot 18 = 216$ dehqon-kun", "$216 : 36 = 6$ kun"],
+        "final_answer": "6"
+      },
+      {
+        "method": "formula",
+        "steps": ["$t = \\frac{n_1 \\cdot t_1}{n_2}$", "$t = \\frac{12 \\cdot 18}{36} = 6$"],
+        "final_answer": "6"
+      }
+    ],
+    "explanation": {
+      "uz": "12 dehqon 18 kunda, 36 dehqon esa 6 kunda bajaradi.",
+      "ru": "12 крестьян за 18 дней, 36 крестьян за 6 дней.",
+      "en": "12 farmers take 18 days, so 36 farmers take 6 days."
+    }
+  },
+  {
+    "id": "math-167-corrected",
+    "number": 167,
+    "subject": "matematika",
+    "topic": "Proportsiyalar",
+    "tags": ["teskari proportsiya", "ishchilar", "masala"],
+    "question": {
+      "uz": "Bir uy qurilishini 15 ishchi 30 kunda tugatsa, 45 ishchi necha kunda tugatadi?",
+      "ru": "Если 15 рабочих построят дом за 30 дней, за сколько дней 45 рабочих его закончат?",
+      "en": "If 15 workers build a house in 30 days, how many days will 45 workers need?"
+    },
+    "options": {
+      "A": { "uz": "$10$", "ru": "$10$", "en": "$10$" },
+      "B": { "uz": "$12$", "ru": "$12$", "en": "$12$" },
+      "C": { "uz": "$15$", "ru": "$15$", "en": "$15$" },
+      "D": { "uz": "$20$", "ru": "$20$", "en": "$20$" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "enumeration",
+        "steps": ["$15 \\cdot 30 = 450$ ishchi-kun", "$450 : 45 = 10$ kun"],
+        "final_answer": "10"
+      },
+      {
+        "method": "formula",
+        "steps": ["$t = \\frac{n_1 \\cdot t_1}{n_2}$", "$t = \\frac{15 \\cdot 30}{45} = 10$"],
+        "final_answer": "10"
+      }
+    ],
+    "explanation": {
+      "uz": "15 ishchi 30 kunda tugatsa, 45 ishchi 10 kunda tugatadi.",
+      "ru": "15 рабочих за 30 дней, значит 45 рабочих за 10 дней.",
+      "en": "15 workers take 30 days, so 45 workers take 10 days."
+    }
+  }
+]
+[
+  {
+    "id": "math-183-corrected",
+    "number": 183,
+    "subject": "matematika",
+    "topic": "Birgalikda ish bajarish",
+    "tags": ["tezlik", "ko'za", "suv", "ishchilar"],
+    "question": {
+      "uz": "Bir ko'za suvni Feruzaning o'zi ichsa, 10 kunga yetadi. Singlisi ichsa, 40 kunga yetadi. Ular birgalikda ichishsa, necha kunga yetadi?",
+      "ru": "Если Феруза выпьет кувшин воды за 10 дней, а её сестра за 40 дней, за сколько дней они выпьют его вместе?",
+      "en": "If Feruza drinks a jug of water in 10 days and her sister in 40 days, how many days will they drink it together?"
+    },
+    "options": {
+      "A": { "uz": "$8$", "ru": "$8$", "en": "$8$" },
+      "B": { "uz": "$7$", "ru": "$7$", "en": "$7$" },
+      "C": { "uz": "$6$", "ru": "$6$", "en": "$6$" },
+      "D": { "uz": "$5$", "ru": "$5$", "en": "$5$" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "rate addition",
+        "steps": [
+          "Feruza: $1/10$ ko'za/kun",
+          "Singlisi: $1/40$ ko'za/kun",
+          "Birgalikda: $1/10 + 1/40 = 1/8$ ko'za/kun",
+          "Demak, ular 8 kunda tugatadi."
+        ],
+        "final_answer": "8"
+      }
+    ],
+    "explanation": {
+      "uz": "Feruza kuniga $1/10$, singlisi $1/40$ ichadi. Birgalikda $1/8$, demak 8 kunda tugatishadi.",
+      "ru": "Феруза $1/10$, сестра $1/40$. Вместе $1/8$, значит за 8 дней.",
+      "en": "Feruza $1/10$, sister $1/40$. Together $1/8$, so 8 days."
+    }
+  },
+  {
+    "id": "math-184-corrected",
+    "number": 184,
+    "subject": "matematika",
+    "topic": "Birgalikda ish bajarish",
+    "tags": ["tezlik", "ko'za", "suv", "ishchilar"],
+    "question": {
+      "uz": "Bir ko'za suvni Feruzaning o'zi ichsa, 12 kunga yetadi. Singlisi ichsa, 24 kunga yetadi. Ular birgalikda ichishsa, necha kunga yetadi?",
+      "ru": "Если Феруза выпьет кувшин за 12 дней, а её сестра за 24 дня, за сколько дней они выпьют его вместе?",
+      "en": "If Feruza drinks a jug of water in 12 days and her sister in 24 days, how many days will they drink it together?"
+    },
+    "options": {
+      "A": { "uz": "$8$", "ru": "$8$", "en": "$8$" },
+      "B": { "uz": "$6$", "ru": "$6$", "en": "$6$" },
+      "C": { "uz": "$10$", "ru": "$10$", "en": "$10$" },
+      "D": { "uz": "$12$", "ru": "$12$", "en": "$12$" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "rate addition",
+        "steps": [
+          "Feruza: $1/12$",
+          "Singlisi: $1/24$",
+          "Birgalikda: $1/12 + 1/24 = 1/8$",
+          "Demak, ular 8 kunda tugatadi."
+        ],
+        "final_answer": "8"
+      }
+    ],
+    "explanation": {
+      "uz": "Feruza $1/12$, singlisi $1/24$. Birgalikda $1/8$, demak 8 kun.",
+      "ru": "Феруза $1/12$, сестра $1/24$. Вместе $1/8$, значит 8 дней.",
+      "en": "Feruza $1/12$, sister $1/24$. Together $1/8$, so 8 days."
+    }
+  },
+  {
+    "id": "math-185-corrected",
+    "number": 185,
+    "subject": "matematika",
+    "topic": "Birgalikda ish bajarish",
+    "tags": ["tezlik", "ko'za", "suv", "ishchilar"],
+    "question": {
+      "uz": "Bir ko'za suvni Feruzaning o'zi ichsa, 15 kunga yetadi. Singlisi ichsa, 30 kunga yetadi. Ular birgalikda ichishsa, necha kunga yetadi?",
+      "ru": "Если Феруза выпьет кувшин за 15 дней, а её сестра за 30 дней, за сколько дней они выпьют его вместе?",
+      "en": "If Feruza drinks a jug of water in 15 days and her sister in 30 days, how many days will they drink it together?"
+    },
+    "options": {
+      "A": { "uz": "$12$", "ru": "$12$", "en": "$12$" },
+      "B": { "uz": "$10$", "ru": "$10$", "en": "$10$" },
+      "C": { "uz": "$8$", "ru": "$8$", "en": "$8$" },
+      "D": { "uz": "$6$", "ru": "$6$", "en": "$6$" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "rate addition",
+        "steps": [
+          "Feruza: $1/15$",
+          "Singlisi: $1/30$",
+          "Birgalikda: $1/15 + 1/30 = 1/10$",
+          "Demak, ular 10 kunda tugatadi."
+        ],
+        "final_answer": "10"
+      }
+    ],
+    "explanation": {
+      "uz": "Feruza $1/15$, singlisi $1/30$. Birgalikda $1/10$, demak 10 kun.",
+      "ru": "Феруза $1/15$, сестра $1/30$. Вместе $1/10$, значит 10 дней.",
+      "en": "Feruza $1/15$, sister $1/30$. Together $1/10$, so 10 days."
+    }
+  },
+  {
+    "id": "math-186-corrected",
+    "number": 186,
+    "subject": "matematika",
+    "topic": "Birgalikda ish bajarish",
+    "tags": ["tezlik", "ko'za", "suv", "ishchilar"],
+    "question": {
+      "uz": "Bir ko'za suvni Feruzaning o'zi ichsa, 20 kunga yetadi. Singlisi ichsa, 30 kunga yetadi. Ular birgalikda ichishsa, necha kunga yetadi?",
+      "ru": "Если Феруза выпьет кувшин за 20 дней, а её сестра за 30 дней, за сколько дней они выпьют его вместе?",
+      "en": "If Feruza drinks a jug of water in 20 days and her sister in 30 days, how many days will they drink it together?"
+    },
+    "options": {
+      "A": { "uz": "$15$", "ru": "$15$", "en": "$15$" },
+      "B": { "uz": "$12$", "ru": "$12$", "en": "$12$" },
+      "C": { "uz": "$10$", "ru": "$10$", "en": "$10$" },
+      "D": { "uz": "$8$", "ru": "$8$", "en": "$8$" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "rate addition",
+        "steps": [
+          "Feruza: $1/20$",
+          "Singlisi: $1/30$",
+          "Birgalikda: $1/20 + 1/30 = 1/12$",
+          "Demak, ular 12 kunda tugatadi."
+        ],
+        "final_answer": "12"
+      }
+    ],
+    "explanation": {
+      "uz": "Feruza $1/20$, singlisi $1/30$. Birgalikda $1/12$, demak 12 kun.",
+      "ru": "Феруза $1/20$, сестра $1/30$. Вместе $1/12$, значит 12 дней.",
+      "en": "Feruza $1/20$, sister $1/30$. Together $1/12$, so 12 days."
+    }
+  },
+]
+[
+  {
+    "id": "math-192-corrected",
+    "number": 192,
+    "subject": "matematika",
+    "topic": "Proportsiya va nisbat",
+    "tags": ["proportsiya", "suv", "ko'za"],
+    "question": {
+      "uz": "160 litr suv bilan 32 ta ko'zani to'ldirish mumkin. 300 litr suv bilan nechta ko'zani to'ldirish mumkin?",
+      "ru": "160 литров воды хватает, чтобы наполнить 32 кувшина. Сколько кувшинов можно наполнить 300 литрами воды?",
+      "en": "160 liters of water can fill 32 jars. How many jars can be filled with 300 liters of water?"
+    },
+    "options": {
+      "A": { "uz": "$40$", "ru": "$40$", "en": "$40$" },
+      "B": { "uz": "$50$", "ru": "$50$", "en": "$50$" },
+      "C": { "uz": "$60$", "ru": "$60$", "en": "$60$" },
+      "D": { "uz": "$70$", "ru": "$70$", "en": "$70$" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "proportion",
+        "steps": [
+          "160 litr suv = 32 ko'za",
+          "1 litr suv = 32 / 160 = 0.2 ko'za",
+          "300 litr suv = 300 × 0.2 = 60 ko'za"
+        ],
+        "final_answer": "60"
+      }
+    ],
+    "explanation": {
+      "uz": "Suv miqdori va ko'zalar soni to‘g‘ri proportsional. 300 litrda 60 ta ko‘za to‘ladi.",
+      "ru": "Количество воды и число кувшинов прямо пропорциональны. При 300 литрах получится 60 кувшинов.",
+      "en": "The amount of water and the number of jars are directly proportional. With 300 liters, 60 jars can be filled."
+    }
+  },
+  {
+    "id": "math-193-corrected",
+    "number": 193,
+    "subject": "matematika",
+    "topic": "Proportsiya va nisbat",
+    "tags": ["proportsiya", "suv", "ko'za"],
+    "question": {
+      "uz": "120 litr suv bilan 24 ta ko'zani to'ldirish mumkin. 250 litr suv bilan nechta ko'zani to'ldirish mumkin?",
+      "ru": "120 литров воды хватает, чтобы наполнить 24 кувшина. Сколько кувшинов можно наполнить 250 литрами воды?",
+      "en": "120 liters of water can fill 24 jars. How many jars can be filled with 250 liters of water?"
+    },
+    "options": {
+      "A": { "uz": "$40$", "ru": "$40$", "en": "$40$" },
+      "B": { "uz": "$48$", "ru": "$48$", "en": "$48$" },
+      "C": { "uz": "$50$", "ru": "$50$", "en": "$50$" },
+      "D": { "uz": "$52$", "ru": "$52$", "en": "$52$" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "proportion",
+        "steps": [
+          "120 litr suv = 24 ko'za",
+          "1 litr suv = 24 / 120 = 0.2 ko'za",
+          "250 litr suv = 250 × 0.2 = 50 ko'za"
+        ],
+        "final_answer": "50"
+      }
+    ],
+    "explanation": {
+      "uz": "Suv va ko'zalar soni to‘g‘ri proportsional. 250 litrda 50 ta ko‘za to‘ladi.",
+      "ru": "Количество воды и число кувшинов прямо пропорциональны. При 250 литрах получится 50 кувшинов.",
+      "en": "The amount of water and the number of jars are directly proportional. With 250 liters, 50 jars can be filled."
+    }
+  },
+  {
+    "id": "math-194-corrected",
+    "number": 194,
+    "subject": "matematika",
+    "topic": "Proportsiya va nisbat",
+    "tags": ["proportsiya", "suv", "ko'za"],
+    "question": {
+      "uz": "200 litr suv bilan 40 ta ko'zani to'ldirish mumkin. 150 litr suv bilan nechta ko'zani to'ldirish mumkin?",
+      "ru": "200 литров воды хватает, чтобы наполнить 40 кувшинов. Сколько кувшинов можно наполнить 150 литрами воды?",
+      "en": "200 liters of water can fill 40 jars. How many jars can be filled with 150 liters of water?"
+    },
+    "options": {
+      "A": { "uz": "$25$", "ru": "$25$", "en": "$25$" },
+      "B": { "uz": "$30$", "ru": "$30$", "en": "$30$" },
+      "C": { "uz": "$35$", "ru": "$35$", "en": "$35$" },
+      "D": { "uz": "$40$", "ru": "$40$", "en": "$40$" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "proportion",
+        "steps": [
+          "200 litr suv = 40 ko'za",
+          "1 litr suv = 40 / 200 = 0.2 ko'za",
+          "150 litr suv = 150 × 0.2 = 30 ko'za"
+        ],
+        "final_answer": "30"
+      }
+    ],
+    "explanation": {
+      "uz": "Suv va ko'zalar soni to‘g‘ri proportsional. 150 litrda 30 ta ko‘za to‘ladi.",
+      "ru": "Количество воды и число кувшинов прямо пропорциональны. При 150 литрах получится 30 кувшинов.",
+      "en": "The amount of water and the number of jars are directly proportional. With 150 liters, 30 jars can be filled."
+    }
+  },
+  {
+    "id": "math-195-corrected",
+    "number": 195,
+    "subject": "matematika",
+    "topic": "Proportsiya va nisbat",
+    "tags": ["proportsiya", "suv", "ko'za"],
+    "question": {
+      "uz": "180 litr suv bilan 36 ta ko'zani to'ldirish mumkin. 270 litr suv bilan nechta ko'zani to'ldirish mumkin?",
+      "ru": "180 литров воды хватает, чтобы наполнить 36 кувшинов. Сколько кувшинов можно наполнить 270 литрами воды?",
+      "en": "180 liters of water can fill 36 jars. How many jars can be filled with 270 liters of water?"
+    },
+    "options": {
+      "A": { "uz": "$50$", "ru": "$50$", "en": "$50$" },
+      "B": { "uz": "$52$", "ru": "$52$", "en": "$52$" },
+      "C": { "uz": "$54$", "ru": "$54$", "en": "$54$" },
+      "D": { "uz": "$56$", "ru": "$56$", "en": "$56$" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "proportion",
+        "steps": [
+          "180 litr suv = 36 ko'za",
+          "1 litr suv = 36 / 180 = 0.2 ko'za",
+          "270 litr suv = 270 × 0.2 = 54 ko'za"
+        ],
+        "final_answer": "54"
+      }
+    ],
+    "explanation": {
+      "uz": "Suv va ko'zalar soni to‘g‘ri proportsional. 270 litrda 54 ta ko‘za to‘ladi.",
+      "ru": "Количество воды и число кувшинов прямо пропорциональны. При 270 литрах получится 54 кувшина.",
+      "en": "The amount of water and the number of jars are directly proportional. With 270 liters, 54 jars can be filled."
+    }
+  },
+  {
+    "id": "math-196-corrected",
+    "number": 196,
+    "subject": "matematika",
+    "topic": "Proportsiya va nisbat",
+    "tags": ["proportsiya", "suv", "ko'za"],
+    "question": {
+      "uz": "140 litr suv bilan 28 ta ko'zani to'ldirish mumkin. 350 litr suv bilan nechta ko'zani to'ldirish mumkin?",
+      "ru": "140 литров воды хватает, чтобы наполнить 28 кувшинов. Сколько кувшинов можно наполнить 350 литрами воды?",
+      "en": "140 liters of water can fill 28 jars. How many jars can be filled with 350 liters of water?"
+    },
+    "options": {
+      "A": { "uz": "$60$", "ru": "$60$", "en": "$60$" },
+      "B": { "uz": "$65$", "ru": "$65$", "en": "$65$" },
+      "C": { "uz": "$70$", "ru": "$70$", "en": "$70$" },
+      "D": { "uz": "$75$", "ru": "$75$", "en": "$75$" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "proportion",
+        "steps": [
+          "140 litr suv = 28 ko'za",
+          "1 litr suv = 28 / 140 = 0.2 ko'za",
+          "350 litr suv = 350 × 0.2 = 70 ko'za"
+        ],
+        "final_answer": "70"
+      }
+    ],
+    "explanation": {
+      "uz": "Suv va ko'zalar soni to‘g‘ri proportsional. 350 litrda 70 ta ko‘za to‘ladi.",
+      "ru": "Количество воды и число кувшинов прямо пропорциональны. При 350 литрах получится 70 кувшинов.",
+      "en": "The amount of water and the number of jars are directly proportional. With 350 liters, 70 jars can be filled."
+    }
+  }
+]
+[
+  {
+    "id": "science-211-corrected",
+    "number": 211,
+    "subject": "fizika",
+    "topic": "Atom tuzilishi",
+    "tags": ["atom", "xususiyat", "yadro"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan atomga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее атому.",
+      "en": "Select the property that is characteristic of an atom."
+    },
+    "options": {
+      "A": { "uz": "Rang", "ru": "Цвет", "en": "Color" },
+      "B": { "uz": "Yadro zaryadi", "ru": "Заряд ядра", "en": "Nuclear charge" },
+      "C": { "uz": "Hid", "ru": "Запах", "en": "Smell" },
+      "D": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Atomni tashkil qiluvchi asosiy xususiyat yadro zaryadi bilan belgilanadi.",
+          "Rang, hid va agregat holat moddaga xos, atomga emas."
+        ],
+        "final_answer": "Yadro zaryadi"
+      }
+    ],
+    "explanation": {
+      "uz": "Atomning xususiyati — uning yadro zaryadi; rang, hid va agregat holat esa moddaning umumiy xususiyatlari.",
+      "ru": "Свойство атома — заряд ядра; цвет, запах и агрегатное состояние относятся к веществу.",
+      "en": "The characteristic of an atom is its nuclear charge; color, smell, and state of matter belong to the substance."
+    }
+  },
+  {
+    "id": "science-212-corrected",
+    "number": 212,
+    "subject": "fizika",
+    "topic": "Atom tuzilishi",
+    "tags": ["atom", "xususiyat", "yadro"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan atomga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее атому.",
+      "en": "Select the property that is characteristic of an atom."
+    },
+    "options": {
+      "A": { "uz": "Rang", "ru": "Цвет", "en": "Color" },
+      "B": { "uz": "Yadro zaryadi", "ru": "Заряд ядра", "en": "Nuclear charge" },
+      "C": { "uz": "Hid", "ru": "Запах", "en": "Smell" },
+      "D": { "uz": "Qattiqlik", "ru": "Твердость", "en": "Hardness" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Atomning o'ziga xos xususiyati — yadro zaryadi.",
+          "Rang, hid va qattiqlik moddaning xususiyati."
+        ],
+        "final_answer": "Yadro zaryadi"
+      }
+    ],
+    "explanation": {
+      "uz": "Atomni aniqlovchi xususiyat — yadro zaryadi; boshqa ko'rsatilganlar moddalarga tegishli.",
+      "ru": "Определяющее свойство атома — заряд ядра; остальные относятся к веществу.",
+      "en": "The defining property of an atom is its nuclear charge; the others belong to substances."
+    }
+  },
+  {
+    "id": "science-213-corrected",
+    "number": 213,
+    "subject": "fizika",
+    "topic": "Atom tuzilishi",
+    "tags": ["atom", "xususiyat", "yadro"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan atomga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее атому.",
+      "en": "Select the property that is characteristic of an atom."
+    },
+    "options": {
+      "A": { "uz": "Yadro zaryadi", "ru": "Заряд ядра", "en": "Nuclear charge" },
+      "B": { "uz": "Rang", "ru": "Цвет", "en": "Color" },
+      "C": { "uz": "Hid", "ru": "Запах", "en": "Smell" },
+      "D": { "uz": "Temperatura", "ru": "Температура", "en": "Temperature" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Atomni boshqa moddalardan farqlash xususiyati yadro zaryadi bilan belgilanadi.",
+          "Rang, hid va temperatura moddaning xususiyatlari."
+        ],
+        "final_answer": "Yadro zaryadi"
+      }
+    ],
+    "explanation": {
+      "uz": "Yadro zaryadi atomga xos xususiyat; qolganlari moddalarga tegishli.",
+      "ru": "Заряд ядра — это свойство атома, остальные — свойства вещества.",
+      "en": "Nuclear charge is characteristic of an atom; others belong to substances."
+    }
+  },
+  {
+    "id": "science-214-corrected",
+    "number": 214,
+    "subject": "fizika",
+    "topic": "Atom tuzilishi",
+    "tags": ["atom", "xususiyat", "yadro"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan atomga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее атому.",
+      "en": "Select the property that is characteristic of an atom."
+    },
+    "options": {
+      "A": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" },
+      "B": { "uz": "Yadro zaryadi", "ru": "Заряд ядра", "en": "Nuclear charge" },
+      "C": { "uz": "Rang", "ru": "Цвет", "en": "Color" },
+      "D": { "uz": "Hid", "ru": "Запах", "en": "Smell" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Atomning o'ziga xos xususiyati — yadro zaryadi.",
+          "Agregat xolat, rang va hid moddaga tegishli."
+        ],
+        "final_answer": "Yadro zaryadi"
+      }
+    ],
+    "explanation": {
+      "uz": "Atomning xususiyati — yadro zaryadi; boshqa variantlar moddaga tegishli.",
+      "ru": "Свойство атома — заряд ядра; остальные — свойства вещества.",
+      "en": "The atom’s property is nuclear charge; others belong to substances."
+    }
+  },
+  {
+    "id": "science-215-corrected",
+    "number": 215,
+    "subject": "fizika",
+    "topic": "Atom tuzilishi",
+    "tags": ["atom", "xususiyat", "yadro"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan atomga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее атому.",
+      "en": "Select the property that is characteristic of an atom."
+    },
+    "options": {
+      "A": { "uz": "Hid", "ru": "Запах", "en": "Smell" },
+      "B": { "uz": "Rang", "ru": "Цвет", "en": "Color" },
+      "C": { "uz": "Yadro zaryadi", "ru": "Заряд ядра", "en": "Nuclear charge" },
+      "D": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Atomni aniqlovchi xususiyat — yadro zaryadi.",
+          "Hid, rang va agregat holat moddaga tegishli."
+        ],
+        "final_answer": "Yadro zaryadi"
+      }
+    ],
+    "explanation": {
+      "uz": "Yadro zaryadi atomga xos xususiyat; qolganlari moddaga tegishli.",
+      "ru": "Заряд ядра — это свойство атома, остальные — свойства вещества.",
+      "en": "Nuclear charge is characteristic of an atom; others belong to substances."
+    }
+  }
+]
+[
+  {
+    "id": "science-212-corrected",
+    "number": 212,
+    "subject": "fizika",
+    "topic": "Atom tuzilishi",
+    "tags": ["atom", "xususiyat", "yadro"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan atomga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее атому.",
+      "en": "Select the property that is characteristic of an atom."
+    },
+    "options": {
+      "A": { "uz": "Elektromanfiylik", "ru": "Электромагнитность", "en": "Electromagnetism" },
+      "B": { "uz": "Zichlik", "ru": "Плотность", "en": "Density" },
+      "C": { "uz": "Protonlar bo'lishi", "ru": "Наличие протонов", "en": "Presence of protons" },
+      "D": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Atomni boshqa moddalardan farqlovchi asosiy xususiyat — protonlar mavjudligi.",
+          "Elektromanfiylik, zichlik va agregat xolat moddaning xususiyatlari."
+        ],
+        "final_answer": "Protonlar bo'lishi"
+      }
+    ],
+    "explanation": {
+      "uz": "Atomning xususiyati – yadrodagi protonlar soni; qolgan ko‘rsatilganlar moddalarga tegishli.",
+      "ru": "Свойство атома — наличие протонов в ядре; остальные свойства относятся к веществу.",
+      "en": "The characteristic of an atom is the presence of protons in the nucleus; others belong to substances."
+    }
+  },
+  {
+    "id": "science-213-corrected",
+    "number": 213,
+    "subject": "fizika",
+    "topic": "Atom tuzilishi",
+    "tags": ["atom", "xususiyat", "yadro"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan atomga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее атому.",
+      "en": "Select the property that is characteristic of an atom."
+    },
+    "options": {
+      "A": { "uz": "Zichlik", "ru": "Плотность", "en": "Density" },
+      "B": { "uz": "Protonlar bo'lishi", "ru": "Наличие протонов", "en": "Presence of protons" },
+      "C": { "uz": "Elektromanfiylik", "ru": "Электромагнитность", "en": "Electromagnetism" },
+      "D": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Atomning xususiyati – yadrodagi protonlar mavjudligi.",
+          "Zichlik, elektromanfiylik va agregat xolat moddalarga xos."
+        ],
+        "final_answer": "Protonlar bo'lishi"
+      }
+    ],
+    "explanation": {
+      "uz": "Atomning asosiy xususiyati — yadro protonlari; boshqa ko‘rsatilganlar moddaga tegishli.",
+      "ru": "Основное свойство атома — наличие протонов в ядре; остальные — свойства вещества.",
+      "en": "The main property of an atom is the presence of protons; others belong to substances."
+    }
+  },
+  {
+    "id": "science-214-corrected",
+    "number": 214,
+    "subject": "fizika",
+    "topic": "Atom tuzilishi",
+    "tags": ["atom", "xususiyat", "yadro"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan atomga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее атому.",
+      "en": "Select the property that is characteristic of an atom."
+    },
+    "options": {
+      "A": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" },
+      "B": { "uz": "Zichlik", "ru": "Плотность", "en": "Density" },
+      "C": { "uz": "Protonlar bo'lishi", "ru": "Наличие протонов", "en": "Presence of protons" },
+      "D": { "uz": "Elektromanfiylik", "ru": "Электромагнитность", "en": "Electromagnetism" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Atomni boshqa moddadan ajratib turuvchi xususiyat — protonlar mavjudligi.",
+          "Agregat xolat, zichlik va elektromanfiylik moddalarga tegishli."
+        ],
+        "final_answer": "Protonlar bo'lishi"
+      }
+    ],
+    "explanation": {
+      "uz": "Yadrodagi protonlar soni atomning xususiyati; boshqa variantlar moddaga tegishli.",
+      "ru": "Количество протонов в ядре — свойство атома; остальные варианты — свойства вещества.",
+      "en": "Number of protons in the nucleus is characteristic of an atom; others belong to substances."
+    }
+  },
+  {
+    "id": "science-215-corrected",
+    "number": 215,
+    "subject": "fizika",
+    "topic": "Atom tuzilishi",
+    "tags": ["atom", "xususiyat", "yadro"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan atomga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее атому.",
+      "en": "Select the property that is characteristic of an atom."
+    },
+    "options": {
+      "A": { "uz": "Protonlar bo'lishi", "ru": "Наличие протонов", "en": "Presence of protons" },
+      "B": { "uz": "Elektromanfiylik", "ru": "Электромагнитность", "en": "Electromagnetism" },
+      "C": { "uz": "Zichlik", "ru": "Плотность", "en": "Density" },
+      "D": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Atomni aniqlash uchun asosiy xususiyat — protonlar mavjudligi.",
+          "Elektromanfiylik, zichlik va agregat xolat moddaga tegishli."
+        ],
+        "final_answer": "Protonlar bo'lishi"
+      }
+    ],
+    "explanation": {
+      "uz": "Atomning xususiyati — yadro protonlari; boshqa variantlar moddaga tegishli.",
+      "ru": "Свойство атома — наличие протонов в ядре; остальные варианты — свойства вещества.",
+      "en": "The property of an atom is the presence of protons; others belong to substances."
+    }
+  },
+  {
+    "id": "science-216-corrected",
+    "number": 216,
+    "subject": "fizika",
+    "topic": "Atom tuzilishi",
+    "tags": ["atom", "xususiyat", "yadro"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan atomga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее атому.",
+      "en": "Select the property that is characteristic of an atom."
+    },
+    "options": {
+      "A": { "uz": "Zichlik", "ru": "Плотность", "en": "Density" },
+      "B": { "uz": "Protonlar bo'lishi", "ru": "Наличие протонов", "en": "Presence of protons" },
+      "C": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" },
+      "D": { "uz": "Elektromanfiylik", "ru": "Электромагнитность", "en": "Electromagnetism" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Atomning xususiyati yadro protonlarida namoyon bo‘ladi.",
+          "Zichlik, agregat xolat va elektromanfiylik moddaga tegishli."
+        ],
+        "final_answer": "Protonlar bo'lishi"
+      }
+    ],
+    "explanation": {
+      "uz": "Atomni farqlash xususiyati — yadrodagi protonlar soni; boshqa variantlar moddaga tegishli.",
+      "ru": "Свойство, отличающее атом — количество протонов в ядре; остальные варианты — свойства вещества.",
+      "en": "The distinguishing property of an atom is the number of protons in the nucleus; others belong to substances."
+    }
+  }
+]
+[
+  {
+    "id": "science-213-corrected",
+    "number": 213,
+    "subject": "fizika",
+    "topic": "Atom tuzilishi",
+    "tags": ["atom", "xususiyat", "massa"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan atomga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее атому.",
+      "en": "Select the property that is characteristic of an atom."
+    },
+    "options": {
+      "A": { "uz": "Guruh raqami", "ru": "Номер группы", "en": "Group number" },
+      "B": { "uz": "Uchuvchanlik", "ru": "Летучесть", "en": "Volatility" },
+      "C": { "uz": "Atom massa", "ru": "Масса атома", "en": "Atomic mass" },
+      "D": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Atomga xos bo‘lgan xususiyat — atom massasi.",
+          "Guruh raqami, uchuvchanlik va agregat xolat moddaga tegishli xususiyatlardir."
+        ],
+        "final_answer": "Atom massa"
+      }
+    ],
+    "explanation": {
+      "uz": "Atomning xosligi — uning massasi; boshqa variantlar moddaga tegishli.",
+      "ru": "Свойство атома — его масса; остальные варианты относятся к веществу.",
+      "en": "The characteristic of an atom is its mass; others belong to substances."
+    }
+  },
+  {
+    "id": "science-214-corrected",
+    "number": 214,
+    "subject": "fizika",
+    "topic": "Atom tuzilishi",
+    "tags": ["atom", "xususiyat", "massa"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan atomga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее атому.",
+      "en": "Select the property that is characteristic of an atom."
+    },
+    "options": {
+      "A": { "uz": "Uchuvchanlik", "ru": "Летучесть", "en": "Volatility" },
+      "B": { "uz": "Guruh raqami", "ru": "Номер группы", "en": "Group number" },
+      "C": { "uz": "Atom massa", "ru": "Масса атома", "en": "Atomic mass" },
+      "D": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Atomning o‘ziga xos xususiyati — atom massasi.",
+          "Uchuvchanlik, guruh raqami va agregat xolat moddalarga xos."
+        ],
+        "final_answer": "Atom massa"
+      }
+    ],
+    "explanation": {
+      "uz": "Atomni aniqlovchi xususiyat — uning massasi; boshqa ko‘rsatilganlar moddaga tegishli.",
+      "ru": "Определяющее свойство атома — его масса; остальные — свойства вещества.",
+      "en": "The distinguishing property of an atom is its mass; others belong to substances."
+    }
+  },
+  {
+    "id": "science-215-corrected",
+    "number": 215,
+    "subject": "fizika",
+    "topic": "Atom tuzilishi",
+    "tags": ["atom", "xususiyat", "massa"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan atomga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее атому.",
+      "en": "Select the property that is characteristic of an atom."
+    },
+    "options": {
+      "A": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" },
+      "B": { "uz": "Atom massa", "ru": "Масса атома", "en": "Atomic mass" },
+      "C": { "uz": "Guruh raqami", "ru": "Номер группы", "en": "Group number" },
+      "D": { "uz": "Uchuvchanlik", "ru": "Летучесть", "en": "Volatility" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Atomga xos xususiyat — uning massasi.",
+          "Agregat xolat, guruh raqami va uchuvchanlik moddaga tegishli."
+        ],
+        "final_answer": "Atom massa"
+      }
+    ],
+    "explanation": {
+      "uz": "Atomning asosiy xususiyati — massa; boshqa variantlar moddaga xos.",
+      "ru": "Основное свойство атома — масса; остальные — свойства вещества.",
+      "en": "The main property of an atom is its mass; others belong to substances."
+    }
+  },
+  {
+    "id": "science-216-corrected",
+    "number": 216,
+    "subject": "fizika",
+    "topic": "Atom tuzilishi",
+    "tags": ["atom", "xususiyat", "massa"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan atomga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее атому.",
+      "en": "Select the property that is characteristic of an atom."
+    },
+    "options": {
+      "A": { "uz": "Atom massa", "ru": "Масса атома", "en": "Atomic mass" },
+      "B": { "uz": "Uchuvchanlik", "ru": "Летучесть", "en": "Volatility" },
+      "C": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" },
+      "D": { "uz": "Guruh raqami", "ru": "Номер группы", "en": "Group number" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Atomning xos xususiyati — massa.",
+          "Uchuvchanlik, agregat xolat va guruh raqami moddaga tegishli."
+        ],
+        "final_answer": "Atom massa"
+      }
+    ],
+    "explanation": {
+      "uz": "Atomning xususiyati — massa; boshqa variantlar moddaga tegishli.",
+      "ru": "Свойство атома — масса; остальные — свойства вещества.",
+      "en": "The property of an atom is mass; others belong to substances."
+    }
+  },
+  {
+    "id": "science-217-corrected",
+    "number": 217,
+    "subject": "fizika",
+    "topic": "Atom tuzilishi",
+    "tags": ["atom", "xususiyat", "massa"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan atomga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее атому.",
+      "en": "Select the property that is characteristic of an atom."
+    },
+    "options": {
+      "A": { "uz": "Guruh raqami", "ru": "Номер группы", "en": "Group number" },
+      "B": { "uz": "Atom massa", "ru": "Масса атома", "en": "Atomic mass" },
+      "C": { "uz": "Uchuvchanlik", "ru": "Летучесть", "en": "Volatility" },
+      "D": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Atomni aniqlash xususiyati — massa.",
+          "Guruh raqami, uchuvchanlik va agregat xolat moddaga tegishli."
+        ],
+        "final_answer": "Atom massa"
+      }
+    ],
+    "explanation": {
+      "uz": "Atomning xos xususiyati — massa; boshqa variantlar moddaga tegishli.",
+      "ru": "Свойство атома — масса; остальные — свойства вещества.",
+      "en": "The characteristic of an atom is its mass; others belong to substances."
+    }
+  }
+]
+[
+  {
+    "id": "science-214-corrected",
+    "number": 214,
+    "subject": "kimyo",
+    "topic": "Molekula tuzilishi",
+    "tags": ["molekula", "xususiyat", "bog'"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan molekulaga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее молекуле.",
+      "en": "Select the property that is characteristic of a molecule."
+    },
+    "options": {
+      "A": { "uz": "Kimyoviy bog'", "ru": "Химическая связь", "en": "Chemical bond" },
+      "B": { "uz": "Tartib raqami", "ru": "Порядковый номер", "en": "Atomic number" },
+      "C": { "uz": "Atom massa", "ru": "Масса атома", "en": "Atomic mass" },
+      "D": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Molekulani aniqlovchi asosiy xususiyat — kimyoviy bog‘ mavjudligi.",
+          "Tartib raqami, atom massasi va agregat xolat boshqa xususiyatlar."
+        ],
+        "final_answer": "Kimyoviy bog'"
+      }
+    ],
+    "explanation": {
+      "uz": "Molekulaga xos xususiyat — kimyoviy bog‘; boshqa variantlar atom yoki moddaga tegishli.",
+      "ru": "Свойство молекулы — химическая связь; остальные — к атому или веществу.",
+      "en": "The characteristic of a molecule is the chemical bond; others belong to atoms or substances."
+    }
+  },
+  {
+    "id": "science-215-corrected",
+    "number": 215,
+    "subject": "kimyo",
+    "topic": "Molekula tuzilishi",
+    "tags": ["molekula", "xususiyat", "bog'"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan molekulaga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее молекуле.",
+      "en": "Select the property that is characteristic of a molecule."
+    },
+    "options": {
+      "A": { "uz": "Tartib raqami", "ru": "Порядковый номер", "en": "Atomic number" },
+      "B": { "uz": "Kimyoviy bog'", "ru": "Химическая связь", "en": "Chemical bond" },
+      "C": { "uz": "Atom massa", "ru": "Масса атома", "en": "Atomic mass" },
+      "D": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Molekulaga xos xususiyat — kimyoviy bog‘ mavjudligi.",
+          "Tartib raqami, atom massasi va agregat xolat boshqa xususiyatlar."
+        ],
+        "final_answer": "Kimyoviy bog'"
+      }
+    ],
+    "explanation": {
+      "uz": "Molekulaga xos xususiyat — kimyoviy bog‘; boshqa variantlar atom yoki moddaga tegishli.",
+      "ru": "Свойство молекулы — химическая связь; остальные — к атому или веществу.",
+      "en": "The characteristic of a molecule is the chemical bond; others belong to atoms or substances."
+    }
+  },
+  {
+    "id": "science-216-corrected",
+    "number": 216,
+    "subject": "kimyo",
+    "topic": "Molekula tuzilishi",
+    "tags": ["molekula", "xususiyat", "bog'"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan molekulaga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее молекуле.",
+      "en": "Select the property that is characteristic of a molecule."
+    },
+    "options": {
+      "A": { "uz": "Atom massa", "ru": "Масса атома", "en": "Atomic mass" },
+      "B": { "uz": "Kimyoviy bog'", "ru": "Химическая связь", "en": "Chemical bond" },
+      "C": { "uz": "Tartib raqami", "ru": "Порядковый номер", "en": "Atomic number" },
+      "D": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Molekulaga xos xususiyat — kimyoviy bog‘.",
+          "Atom massasi, tartib raqami va agregat xolat boshqa xususiyatlar."
+        ],
+        "final_answer": "Kimyoviy bog'"
+      }
+    ],
+    "explanation": {
+      "uz": "Molekulaga xos xususiyat — kimyoviy bog‘; boshqa variantlar atom yoki moddaga tegishli.",
+      "ru": "Свойство молекулы — химическая связь; остальные — к атому или веществу.",
+      "en": "The characteristic of a molecule is the chemical bond; others belong to atoms or substances."
+    }
+  },
+  {
+    "id": "science-217-corrected",
+    "number": 217,
+    "subject": "kimyo",
+    "topic": "Molekula tuzilishi",
+    "tags": ["molekula", "xususiyat", "bog'"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan molekulaga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее молекуле.",
+      "en": "Select the property that is characteristic of a molecule."
+    },
+    "options": {
+      "A": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" },
+      "B": { "uz": "Atom massa", "ru": "Масса атома", "en": "Atomic mass" },
+      "C": { "uz": "Kimyoviy bog'", "ru": "Химическая связь", "en": "Chemical bond" },
+      "D": { "uz": "Tartib raqami", "ru": "Порядковый номер", "en": "Atomic number" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Molekulaga xos xususiyat — kimyoviy bog‘.",
+          "Agregat xolat, atom massasi va tartib raqami moddaga tegishli."
+        ],
+        "final_answer": "Kimyoviy bog'"
+      }
+    ],
+    "explanation": {
+      "uz": "Molekulaga xos xususiyat — kimyoviy bog‘; boshqa variantlar atom yoki moddaga tegishli.",
+      "ru": "Свойство молекулы — химическая связь; остальные — к атому или веществу.",
+      "en": "The characteristic of a molecule is the chemical bond; others belong to atoms or substances."
+    }
+  },
+  {
+    "id": "science-218-corrected",
+    "number": 218,
+    "subject": "kimyo",
+    "topic": "Molekula tuzilishi",
+    "tags": ["molekula", "xususiyat", "bog'"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan molekulaga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее молекуле.",
+      "en": "Select the property that is characteristic of a molecule."
+    },
+    "options": {
+      "A": { "uz": "Tartib raqami", "ru": "Порядковый номер", "en": "Atomic number" },
+      "B": { "uz": "Agregat xolat", "ru": "Агрегатное состояние", "en": "State of matter" },
+      "C": { "uz": "Kimyoviy bog'", "ru": "Химическая связь", "en": "Chemical bond" },
+      "D": { "uz": "Atom massa", "ru": "Масса атома", "en": "Atomic mass" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Molekulaga xos xususiyat — kimyoviy bog‘.",
+          "Tartib raqami, agregat xolat va atom massasi moddaga tegishli."
+        ],
+        "final_answer": "Kimyoviy bog'"
+      }
+    ],
+    "explanation": {
+      "uz": "Molekulaga xos xususiyat — kimyoviy bog‘; boshqa variantlar atom yoki moddaga tegishli.",
+      "ru": "Свойство молекулы — химическая связь; остальные — к атому или веществу.",
+      "en": "The characteristic of a molecule is the chemical bond; others belong to atoms or substances."
+    }
+  }
+]
+[
+  {
+    "id": "science-217-corrected",
+    "number": 217,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "fizik"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan moddaga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее веществу.",
+      "en": "Select the property that is characteristic of a substance."
+    },
+    "options": {
+      "A": { "uz": "Shakl", "ru": "Форма", "en": "Shape" },
+      "B": { "uz": "Guruh raqami", "ru": "Номер группы", "en": "Group number" },
+      "C": { "uz": "Rang", "ru": "Цвет", "en": "Color" },
+      "D": { "uz": "Elektromanfiylik", "ru": "Электроотрицательность", "en": "Electronegativity" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Moddaga xos xususiyatlar — shakl, rang, qattiqlik, erish nuqtasi va boshqalar.",
+          "Guruh raqami va elektromanfiylik atom yoki molekulaga tegishli."
+        ],
+        "final_answer": "Shakl"
+      }
+    ],
+    "explanation": {
+      "uz": "Moddaga xos xususiyatlar — shakl, rang va fizik xususiyatlar; boshqa variantlar atom yoki molekulaga tegishli.",
+      "ru": "Свойства вещества — форма, цвет и физические характеристики; остальные — для атома или молекулы.",
+      "en": "Properties of a substance include shape, color, and physical characteristics; others belong to atoms or molecules."
+    }
+  },
+  {
+    "id": "science-218-corrected",
+    "number": 218,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "fizik"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan moddaga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее веществу.",
+      "en": "Select the property that is characteristic of a substance."
+    },
+    "options": {
+      "A": { "uz": "Rang", "ru": "Цвет", "en": "Color" },
+      "B": { "uz": "Guruh raqami", "ru": "Номер группы", "en": "Group number" },
+      "C": { "uz": "Shakl", "ru": "Форма", "en": "Shape" },
+      "D": { "uz": "Elektromanfiylik", "ru": "Электроотрицательность", "en": "Electronegativity" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Moddaga xos xususiyat — shakl va rang kabi fizik xususiyatlar.",
+          "Guruh raqami va elektromanfiylik atom yoki molekulaga tegishli."
+        ],
+        "final_answer": "Shakl"
+      }
+    ],
+    "explanation": {
+      "uz": "Moddaga xos xususiyatlar — shakl, rang va fizik xususiyatlar; boshqa variantlar atom yoki molekulaga tegishli.",
+      "ru": "Свойства вещества — форма, цвет и физические характеристики; остальные — для атома или молекулы.",
+      "en": "Properties of a substance include shape, color, and physical characteristics; others belong to atoms or molecules."
+    }
+  },
+  {
+    "id": "science-219-corrected",
+    "number": 219,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "fizik"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan moddaga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее веществу.",
+      "en": "Select the property that is characteristic of a substance."
+    },
+    "options": {
+      "A": { "uz": "Elektromanfiylik", "ru": "Электроотрицательность", "en": "Electronegativity" },
+      "B": { "uz": "Shakl", "ru": "Форма", "en": "Shape" },
+      "C": { "uz": "Rang", "ru": "Цвет", "en": "Color" },
+      "D": { "uz": "Guruh raqami", "ru": "Номер группы", "en": "Group number" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Moddaga xos xususiyatlar — shakl va rang kabi fizik xususiyatlar.",
+          "Elektromanfiylik va guruh raqami atom yoki molekulaga tegishli."
+        ],
+        "final_answer": "Shakl"
+      }
+    ],
+    "explanation": {
+      "uz": "Moddaga xos xususiyatlar — shakl, rang va fizik xususiyatlar; boshqa variantlar atom yoki molekulaga tegishli.",
+      "ru": "Свойства вещества — форма, цвет и физические характеристики; остальные — для атома или молекулы.",
+      "en": "Properties of a substance include shape, color, and physical characteristics; others belong to atoms or molecules."
+    }
+  },
+  {
+    "id": "science-220-corrected",
+    "number": 220,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "fizik"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan moddaga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее веществу.",
+      "en": "Select the property that is characteristic of a substance."
+    },
+    "options": {
+      "A": { "uz": "Rang", "ru": "Цвет", "en": "Color" },
+      "B": { "uz": "Shakl", "ru": "Форма", "en": "Shape" },
+      "C": { "uz": "Guruh raqami", "ru": "Номер группы", "en": "Group number" },
+      "D": { "uz": "Elektromanfiylik", "ru": "Электроотрицательность", "en": "Electronegativity" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Moddaga xos xususiyat — shakl va rang kabi fizik xususiyatlar.",
+          "Guruh raqami va elektromanfiylik atom yoki molekulaga tegishli."
+        ],
+        "final_answer": "Shakl"
+      }
+    ],
+    "explanation": {
+      "uz": "Moddaga xos xususiyatlar — shakl, rang va fizik xususiyatlar; boshqa variantlar atom yoki molekulaga tegishli.",
+      "ru": "Свойства вещества — форма, цвет и физические характеристики; остальные — для атома или молекулы.",
+      "en": "Properties of a substance include shape, color, and physical characteristics; others belong to atoms or molecules."
+    }
+  },
+  {
+    "id": "science-221-corrected",
+    "number": 221,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "fizik"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan moddaga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее веществу.",
+      "en": "Select the property that is characteristic of a substance."
+    },
+    "options": {
+      "A": { "uz": "Shakl", "ru": "Форма", "en": "Shape" },
+      "B": { "uz": "Elektromanfiylik", "ru": "Электроотрицательность", "en": "Electronegativity" },
+      "C": { "uz": "Rang", "ru": "Цвет", "en": "Color" },
+      "D": { "uz": "Guruh raqami", "ru": "Номер группы", "en": "Group number" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Moddaga xos xususiyatlar — shakl, rang va boshqa fizik xususiyatlar.",
+          "Guruh raqami va elektromanfiylik atom yoki molekulaga tegishli."
+        ],
+        "final_answer": "Shakl"
+      }
+    ],
+    "explanation": {
+      "uz": "Moddaga xos xususiyatlar — shakl, rang va fizik xususiyatlar; boshqa variantlar atom yoki molekulaga tegishli.",
+      "ru": "Свойства вещества — форма, цвет и физические характеристики; остальные — для атома или молекулы.",
+      "en": "Properties of a substance include shape, color, and physical characteristics; others belong to atoms or molecules."
+    }
+  }
+]
+[
+  {
+    "id": "science-218-corrected",
+    "number": 218,
+    "subject": "kimyo",
+    "topic": "Jism xususiyatlari",
+    "tags": ["jism", "xususiyat", "fizik"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan jismga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее телу.",
+      "en": "Select the property that is characteristic of a body."
+    },
+    "options": {
+      "A": { "uz": "Shakl", "ru": "Форма", "en": "Shape" },
+      "B": { "uz": "Guruh raqami", "ru": "Номер группы", "en": "Group number" },
+      "C": { "uz": "Molyar massa", "ru": "Молярная масса", "en": "Molar mass" },
+      "D": { "uz": "Elektromanfiylik", "ru": "Электроотрицательность", "en": "Electronegativity" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Jismga xos xususiyatlar — shakl, o‘lcham va boshqa fizik xususiyatlar.",
+          "Guruh raqami, molyar massa va elektromanfiylik atom yoki molekulaga tegishli."
+        ],
+        "final_answer": "Shakl"
+      }
+    ],
+    "explanation": {
+      "uz": "Jismga xos xususiyatlar — shakl, o‘lcham va fizik xususiyatlar; boshqa variantlar atom yoki molekulaga tegishli.",
+      "ru": "Свойства тела — форма, размеры и физические характеристики; остальные — для атома или молекулы.",
+      "en": "Properties of a body include shape, size, and physical characteristics; others belong to atoms or molecules."
+    }
+  },
+  {
+    "id": "science-219-corrected",
+    "number": 219,
+    "subject": "kimyo",
+    "topic": "Jism xususiyatlari",
+    "tags": ["jism", "xususiyat", "fizik"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan jismga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее телу.",
+      "en": "Select the property that is characteristic of a body."
+    },
+    "options": {
+      "A": { "uz": "Molyar massa", "ru": "Молярная масса", "en": "Molar mass" },
+      "B": { "uz": "Shakl", "ru": "Форма", "en": "Shape" },
+      "C": { "uz": "Guruh raqami", "ru": "Номер группы", "en": "Group number" },
+      "D": { "uz": "Elektromanfiylik", "ru": "Электроотрицательность", "en": "Electronegativity" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Jismga xos xususiyatlar — shakl va o‘lcham kabi fizik xususiyatlar.",
+          "Molyar massa, guruh raqami va elektromanfiylik atom yoki molekulaga tegishli."
+        ],
+        "final_answer": "Shakl"
+      }
+    ],
+    "explanation": {
+      "uz": "Jismga xos xususiyatlar — shakl, o‘lcham va fizik xususiyatlar; boshqa variantlar atom yoki molekulaga tegishli.",
+      "ru": "Свойства тела — форма, размеры и физические характеристики; остальные — для атома или молекулы.",
+      "en": "Properties of a body include shape, size, and physical characteristics; others belong to atoms or molecules."
+    }
+  },
+  {
+    "id": "science-220-corrected",
+    "number": 220,
+    "subject": "kimyo",
+    "topic": "Jism xususiyatlari",
+    "tags": ["jism", "xususiyat", "fizik"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan jismga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее телу.",
+      "en": "Select the property that is characteristic of a body."
+    },
+    "options": {
+      "A": { "uz": "Elektromanfiylik", "ru": "Электроотрицательность", "en": "Electronegativity" },
+      "B": { "uz": "Shakl", "ru": "Форма", "en": "Shape" },
+      "C": { "uz": "Guruh raqami", "ru": "Номер группы", "en": "Group number" },
+      "D": { "uz": "Molyar massa", "ru": "Молярная масса", "en": "Molar mass" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Jismga xos xususiyat — shakl va o‘lcham kabi fizik xususiyatlar.",
+          "Elektromanfiylik, guruh raqami va molyar massa atom yoki molekulaga tegishli."
+        ],
+        "final_answer": "Shakl"
+      }
+    ],
+    "explanation": {
+      "uz": "Jismga xos xususiyatlar — shakl, o‘lcham va fizik xususiyatlar; boshqa variantlar atom yoki molekulaga tegishli.",
+      "ru": "Свойства тела — форма, размеры и физические характеристики; остальные — для атома или молекулы.",
+      "en": "Properties of a body include shape, size, and physical characteristics; others belong to atoms or molecules."
+    }
+  },
+  {
+    "id": "science-221-corrected",
+    "number": 221,
+    "subject": "kimyo",
+    "topic": "Jism xususiyatlari",
+    "tags": ["jism", "xususiyat", "fizik"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan jismga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее телу.",
+      "en": "Select the property that is characteristic of a body."
+    },
+    "options": {
+      "A": { "uz": "Shakl", "ru": "Форма", "en": "Shape" },
+      "B": { "uz": "Guruh raqami", "ru": "Номер группы", "en": "Group number" },
+      "C": { "uz": "Molyar massa", "ru": "Молярная масса", "en": "Molar mass" },
+      "D": { "uz": "Elektromanfiylik", "ru": "Электроотрицательность", "en": "Electronegativity" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Jismga xos xususiyatlar — shakl va o‘lcham kabi fizik xususiyatlar.",
+          "Guruh raqami, molyar massa va elektromanfiylik atom yoki molekulaga tegishli."
+        ],
+        "final_answer": "Shakl"
+      }
+    ],
+    "explanation": {
+      "uz": "Jismga xos xususiyatlar — shakl, o‘lcham va fizik xususiyatlar; boshqa variantlar atom yoki molekulaga tegishli.",
+      "ru": "Свойства тела — форма, размеры и физические характеристики; остальные — для атома или молекулы.",
+      "en": "Properties of a body include shape, size, and physical characteristics; others belong to atoms or molecules."
+    }
+  },
+  {
+    "id": "science-222-corrected",
+    "number": 222,
+    "subject": "kimyo",
+    "topic": "Jism xususiyatlari",
+    "tags": ["jism", "xususiyat", "fizik"],
+    "question": {
+      "uz": "Quyidagi xususiyatlardan jismga xos bo'lganini toping.",
+      "ru": "Выберите свойство, присущее телу.",
+      "en": "Select the property that is characteristic of a body."
+    },
+    "options": {
+      "A": { "uz": "Rang", "ru": "Цвет", "en": "Color" },
+      "B": { "uz": "Shakl", "ru": "Форма", "en": "Shape" },
+      "C": { "uz": "Guruh raqami", "ru": "Номер группы", "en": "Group number" },
+      "D": { "uz": "Elektromanfiylik", "ru": "Электроотрицательность", "en": "Electronegativity" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Jismga xos xususiyat — shakl va rang kabi fizik xususiyatlar.",
+          "Guruh raqami, molyar massa va elektromanfiylik atom yoki molekulaga tegishli."
+        ],
+        "final_answer": "Shakl"
+      }
+    ],
+    "explanation": {
+      "uz": "Jismga xos xususiyatlar — shakl, o‘lcham va fizik xususiyatlar; boshqa variantlar atom yoki molekulaga tegishli.",
+      "ru": "Свойства тела — форма, размеры и физические характеристики; остальные — для атома или молекулы.",
+      "en": "Properties of a body include shape, size, and physical characteristics; others belong to atoms or molecules."
+    }
+  }
+]
+[
+  {
+    "id": "chem-221-corrected",
+    "number": 221,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Mis sim", "ru": "Медная проволока", "en": "Copper wire" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Tuz", "ru": "Соль", "en": "Salt" },
+      "D": { "uz": "Qaychi", "ru": "Ножницы", "en": "Scissors" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Modda — massa va hajmga ega bo‘lgan hamma narsani ifodalaydi.",
+          "Mis sim, siyohli ruchka va qaychi tarkibida aralashmalar yoki predmetlar bo‘lib, modda sifatida qabul qilinmaydi. Tuz esa modda hisoblanadi."
+        ],
+        "final_answer": "Tuz"
+      }
+    ],
+    "explanation": {
+      "uz": "Tuz — modda, chunki u massa va hajmga ega. Boshqa variantlar predmetlar yoki aralashma bo‘lib, modda sifatida hisoblanmaydi.",
+      "ru": "Соль — это вещество, так как имеет массу и объем. Другие варианты — предметы или смеси, не являются веществом.",
+      "en": "Salt is a substance because it has mass and volume. Other options are objects or mixtures and are not considered substances."
+    }
+  },
+  {
+    "id": "chem-222-corrected",
+    "number": 222,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Shisha stakan", "ru": "Стеклянный стакан", "en": "Glass cup" },
+      "B": { "uz": "Suv", "ru": "Вода", "en": "Water" },
+      "C": { "uz": "Qalam", "ru": "Карандаш", "en": "Pencil" },
+      "D": { "uz": "Qog‘oz varaq", "ru": "Лист бумаги", "en": "Paper sheet" }
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Modda — massa va hajmga ega bo‘lgan narsa.",
+          "Suv modda hisoblanadi, boshqa variantlar esa predmetlar."
+        ],
+        "final_answer": "Suv"
+      }
+    ],
+    "explanation": {
+      "uz": "Suv — modda, chunki u massa va hajmga ega. Boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Вода — вещество, так как имеет массу и объем. Другие варианты — предметы, не являются веществом.",
+      "en": "Water is a substance because it has mass and volume. Other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-223-corrected",
+    "number": 223,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "O‘simlik yog‘i", "ru": "Растительное масло", "en": "Vegetable oil" },
+      "B": { "uz": "Ruchka", "ru": "Ручка", "en": "Pen" },
+      "C": { "uz": "Oyna", "ru": "Стекло", "en": "Glass" },
+      "D": { "uz": "Qalam", "ru": "Карандаш", "en": "Pencil" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "O‘simlik yog‘i — modda, chunki u massa va hajmga ega.",
+          "Ruchka, oyna va qalam predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "O‘simlik yog‘i"
+      }
+    ],
+    "explanation": {
+      "uz": "O‘simlik yog‘i — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Растительное масло — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Vegetable oil is a substance; other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-224-corrected",
+    "number": 224,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Temir", "ru": "Железо", "en": "Iron" },
+      "B": { "uz": "Sizib ketgan qog‘oz", "ru": "Протекшая бумага", "en": "Leaked paper" },
+      "C": { "uz": "Stol", "ru": "Стол", "en": "Table" },
+      "D": { "uz": "Qalam", "ru": "Карандаш", "en": "Pencil" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Temir — modda, massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda hisoblanmaydi."
+        ],
+        "final_answer": "Temir"
+      }
+    ],
+    "explanation": {
+      "uz": "Temir — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Железо — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Iron is a substance; other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-225-corrected",
+    "number": 225,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Shakar", "ru": "Сахар", "en": "Sugar" },
+      "B": { "uz": "Ruchka", "ru": "Ручка", "en": "Pen" },
+      "C": { "uz": "Qaychi", "ru": "Ножницы", "en": "Scissors" },
+      "D": { "uz": "Kalkulyator", "ru": "Калькулятор", "en": "Calculator" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Shakar — modda, chunki u massa va hajmga ega.",
+          "Ruchka, qaychi va kalkulyator predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "Shakar"
+      }
+    ],
+    "explanation": {
+      "uz": "Shakar — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Сахар — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Sugar is a substance; other options are objects and not substances."
+    }
+  }
+]
+[
+  {
+    "id": "chem-225-corrected",
+    "number": 225,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Mis", "ru": "Медь", "en": "Copper" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Plastik idish", "ru": "Пластиковая емкость", "en": "Plastic container" },
+      "D": { "uz": "Siyohdon", "ru": "Чернильница", "en": "Inkpot" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Modda — massa va hajmga ega bo‘lgan narsa.",
+          "Mis modda hisoblanadi, boshqa variantlar predmet bo‘lib, modda sifatida qabul qilinmaydi."
+        ],
+        "final_answer": "Mis"
+      }
+    ],
+    "explanation": {
+      "uz": "Mis — modda, chunki u massa va hajmga ega. Boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Медь — вещество, так как имеет массу и объем. Другие варианты — предметы, не являются веществом.",
+      "en": "Copper is a substance because it has mass and volume. Other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-226-corrected",
+    "number": 226,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Aluminiy folga", "ru": "Алюминиевая фольга", "en": "Aluminum foil" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Plastik idish", "ru": "Пластиковая емкость", "en": "Plastic container" },
+      "D": { "uz": "Siyohdon", "ru": "Чернильница", "en": "Inkpot" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Aluminiy folga — modda, chunki u massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida qabul qilinmaydi."
+        ],
+        "final_answer": "Aluminiy folga"
+      }
+    ],
+    "explanation": {
+      "uz": "Aluminiy folga — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Алюминиевая фольга — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Aluminum foil is a substance; other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-227-corrected",
+    "number": 227,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Temir", "ru": "Железо", "en": "Iron" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Plastik idish", "ru": "Пластиковая емкость", "en": "Plastic container" },
+      "D": { "uz": "Siyohdon", "ru": "Чернильница", "en": "Inkpot" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Temir — modda, massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "Temir"
+      }
+    ],
+    "explanation": {
+      "uz": "Temir — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Железо — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Iron is a substance; other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-228-corrected",
+    "number": 228,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Tuz", "ru": "Соль", "en": "Salt" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Plastik idish", "ru": "Пластиковая емкость", "en": "Plastic container" },
+      "D": { "uz": "Siyohdon", "ru": "Чернильница", "en": "Inkpot" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Tuz — modda, massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "Tuz"
+      }
+    ],
+    "explanation": {
+      "uz": "Tuz — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Соль — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Salt is a substance; other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-229-corrected",
+    "number": 229,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Mis", "ru": "Медь", "en": "Copper" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Plastik idish", "ru": "Пластиковая емкость", "en": "Plastic container" },
+      "D": { "uz": "Siyohdon", "ru": "Чернильница", "en": "Inkpot" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Mis — modda, massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "Mis"
+      }
+    ],
+    "explanation": {
+      "uz": "Mis — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Медь — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Copper is a substance; other options are objects and not substances."
+    }
+  }
+]
+[
+  {
+    "id": "chem-227-corrected",
+    "number": 227,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Tosh", "ru": "Камень", "en": "Stone" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Sulfat kislota", "ru": "Серная кислота", "en": "Sulfuric acid" },
+      "D": { "uz": "Probirka", "ru": "Пробирка", "en": "Test tube" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Modda — massa va hajmga ega bo‘lgan narsa.",
+          "Sulfat kislota modda hisoblanadi, boshqa variantlar predmet bo‘lib modda sifatida qabul qilinmaydi."
+        ],
+        "final_answer": "Sulfat kislota"
+      }
+    ],
+    "explanation": {
+      "uz": "Sulfat kislota — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Серная кислота — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Sulfuric acid is a substance; other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-228-corrected",
+    "number": 228,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Tosh", "ru": "Камень", "en": "Stone" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Shakar", "ru": "Сахар", "en": "Sugar" },
+      "D": { "uz": "Probirka", "ru": "Пробирка", "en": "Test tube" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Shakar — modda, massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "Shakar"
+      }
+    ],
+    "explanation": {
+      "uz": "Shakar — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Сахар — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Sugar is a substance; other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-229-corrected",
+    "number": 229,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Tosh", "ru": "Камень", "en": "Stone" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Temir", "ru": "Железо", "en": "Iron" },
+      "D": { "uz": "Probirka", "ru": "Пробирка", "en": "Test tube" }
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Temir — modda, massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "Temir"
+      }
+    ],
+    "explanation": {
+      "uz": "Temir — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Железо — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Iron is a substance; other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-230-corrected",
+    "number": 230,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Sulfat kislota", "ru": "Серная кислота", "en": "Sulfuric acid" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Plastik idish", "ru": "Пластиковая емкость", "en": "Plastic container" },
+      "D": { "uz": "Probirka", "ru": "Пробирка", "en": "Test tube" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Sulfat kislota — modda, massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "Sulfat kislota"
+      }
+    ],
+    "explanation": {
+      "uz": "Sulfat kislota — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Серная кислота — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Sulfuric acid is a substance; other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-231-corrected",
+    "number": 231,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Shakar", "ru": "Сахар", "en": "Sugar" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Plastik idish", "ru": "Пластиковая емкость", "en": "Plastic container" },
+      "D": { "uz": "Probirka", "ru": "Пробирка", "en": "Test tube" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Shakar — modda, massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "Shakar"
+      }
+    ],
+    "explanation": {
+      "uz": "Shakar — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Сахар — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Sugar is a substance; other options are objects and not substances."
+    }
+  }
+]
+[
+  {
+    "id": "chem-229-corrected",
+    "number": 229,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Mis sim", "ru": "Медный провод", "en": "Copper wire" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Polietilen", "ru": "Полиэтилен", "en": "Polyethylene" },
+      "D": { "uz": "Grafit elektrod", "ru": "Графитовый электрод", "en": "Graphite electrode" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Mis sim — modda, chunki u massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida qabul qilinmaydi."
+        ],
+        "final_answer": "Mis sim"
+      }
+    ],
+    "explanation": {
+      "uz": "Mis sim — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Медный провод — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Copper wire is a substance; other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-230-corrected",
+    "number": 230,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Temir sim", "ru": "Железный провод", "en": "Iron wire" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Polietilen", "ru": "Полиэтилен", "en": "Polyethylene" },
+      "D": { "uz": "Grafit elektrod", "ru": "Графитовый электрод", "en": "Graphite electrode" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Temir sim — modda, massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "Temir sim"
+      }
+    ],
+    "explanation": {
+      "uz": "Temir sim — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Железный провод — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Iron wire is a substance; other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-231-corrected",
+    "number": 231,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Polietilen", "ru": "Полиэтилен", "en": "Polyethylene" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Tosh", "ru": "Камень", "en": "Stone" },
+      "D": { "uz": "Grafit elektrod", "ru": "Графитовый электрод", "en": "Graphite electrode" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Polietilen — modda, massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "Polietilen"
+      }
+    ],
+    "explanation": {
+      "uz": "Polietilen — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Полиэтилен — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Polyethylene is a substance; other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-232-corrected",
+    "number": 232,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Grafit elektrod", "ru": "Графитовый электрод", "en": "Graphite electrode" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Tosh", "ru": "Камень", "en": "Stone" },
+      "D": { "uz": "Plastik idish", "ru": "Пластиковая емкость", "en": "Plastic container" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Grafit elektrod — modda, massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "Grafit elektrod"
+      }
+    ],
+    "explanation": {
+      "uz": "Grafit elektrod — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Графитовый электрод — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Graphite electrode is a substance; other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-233-corrected",
+    "number": 233,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Mis sim", "ru": "Медный провод", "en": "Copper wire" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Plastik idish", "ru": "Пластиковая емкость", "en": "Plastic container" },
+      "D": { "uz": "Probirka", "ru": "Пробирка", "en": "Test tube" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Mis sim — modda, massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "Mis sim"
+      }
+    ],
+    "explanation": {
+      "uz": "Mis sim — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Медный провод — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Copper wire is a substance; other options are objects and not substances."
+    }
+  }
+]
+[
+  {
+    "id": "chem-230-corrected",
+    "number": 230,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Temir kubik", "ru": "Железный куб", "en": "Iron cube" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Plastik idish", "ru": "Пластиковая емкость", "en": "Plastic container" },
+      "D": { "uz": "Qum", "ru": "Песок", "en": "Sand" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Temir kubik — modda, chunki u massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "Temir kubik"
+      }
+    ],
+    "explanation": {
+      "uz": "Temir kubik — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Железный куб — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Iron cube is a substance; other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-231-corrected",
+    "number": 231,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Qum", "ru": "Песок", "en": "Sand" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Plastik idish", "ru": "Пластиковая емкость", "en": "Plastic container" },
+      "D": { "uz": "Temir sim", "ru": "Железный провод", "en": "Iron wire" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Qum — modda, massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "Qum"
+      }
+    ],
+    "explanation": {
+      "uz": "Qum — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Песок — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Sand is a substance; other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-232-corrected",
+    "number": 232,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Temir sim", "ru": "Железный провод", "en": "Iron wire" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Plastik idish", "ru": "Пластиковая емкость", "en": "Plastic container" },
+      "D": { "uz": "Temir kubik", "ru": "Железный куб", "en": "Iron cube" }
+    },
+    "answer": "D",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Temir kubik — modda, massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "Temir kubik"
+      }
+    ],
+    "explanation": {
+      "uz": "Temir kubik — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Железный куб — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Iron cube is a substance; other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-233-corrected",
+    "number": 233,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Polietilen", "ru": "Полиэтилен", "en": "Polyethylene" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Qum", "ru": "Песок", "en": "Sand" },
+      "D": { "uz": "Temir sim", "ru": "Железный провод", "en": "Iron wire" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Polietilen — modda, massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "Polietilen"
+      }
+    ],
+    "explanation": {
+      "uz": "Polietilen — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Полиэтилен — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Polyethylene is a substance; other options are objects and not substances."
+    }
+  },
+  {
+    "id": "chem-234-corrected",
+    "number": 234,
+    "subject": "kimyo",
+    "topic": "Modda xususiyatlari",
+    "tags": ["modda", "xususiyat", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri modda?",
+      "ru": "Какой из перечисленных является веществом?",
+      "en": "Which of the following is a substance?"
+    },
+    "options": {
+      "A": { "uz": "Grafit elektrod", "ru": "Графитовый электрод", "en": "Graphite electrode" },
+      "B": { "uz": "Siyohli ruchka", "ru": "Ручка с чернилами", "en": "Pen with ink" },
+      "C": { "uz": "Plastik idish", "ru": "Пластиковая емкость", "en": "Plastic container" },
+      "D": { "uz": "Temir kubik", "ru": "Железный куб", "en": "Iron cube" }
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Grafit elektrod — modda, massa va hajmga ega.",
+          "Boshqa variantlar predmet bo‘lib, modda sifatida hisoblanmaydi."
+        ],
+        "final_answer": "Grafit elektrod"
+      }
+    ],
+    "explanation": {
+      "uz": "Grafit elektrod — modda, boshqa variantlar predmet bo‘lib, modda hisoblanmaydi.",
+      "ru": "Графитовый электрод — вещество, другие варианты — предметы, не являются веществом.",
+      "en": "Graphite electrode is a substance; other options are objects and not substances."
+    }
+  }
+]
+[
+  {
+    "id": "chem-232-corrected",
+    "number": 232,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["allotropiya", "element", "kimyo"],
+    "question": {
+      "uz": "Quyidagi javoblardagi elementlardan qaysi birida allotropiya hodisasi uchraydi?",
+      "ru": "У какого из перечисленных элементов наблюдается явление аллотропии?",
+      "en": "Which of the following elements exhibits allotropy?"
+    },
+    "options": {
+      "A": { "uz": "Ar", "ru": "Ar", "en": "Ar" },
+      "B": { "uz": "S", "ru": "S", "en": "S" },
+      "C": { "uz": "Br", "ru": "Br", "en": "Br" },
+      "D": { "uz": "Cl", "ru": "Cl", "en": "Cl" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Allotropiya hodisasi — bir elementning turli shakllarda bo‘lishi.",
+          "S (olovli oltingugurt) bir nechta allotrop shakllarga ega: rombik, monoklinik va boshqalar."
+        ],
+        "final_answer": "S"
+      }
+    ],
+    "explanation": {
+      "uz": "Oltingugurt (S) elementida allotropiya mavjud, Ar, Br, Cl esa bunday hodisaga ega emas.",
+      "ru": "Сера (S) проявляет аллотропию, Ar, Br, Cl не обладают этим свойством.",
+      "en": "Sulfur (S) exhibits allotropy; Ar, Br, Cl do not."
+    }
+  },
+  {
+    "id": "chem-233-corrected",
+    "number": 233,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["allotropiya", "element", "kimyo"],
+    "question": {
+      "uz": "Quyidagi javoblardagi elementlardan qaysi birida allotropiya hodisasi uchraydi?",
+      "ru": "У какого из перечисленных элементов наблюдается явление аллотропии?",
+      "en": "Which of the following elements exhibits allotropy?"
+    },
+    "options": {
+      "A": { "uz": "C", "ru": "C", "en": "C" },
+      "B": { "uz": "S", "ru": "S", "en": "S" },
+      "C": { "uz": "Br", "ru": "Br", "en": "Br" },
+      "D": { "uz": "Cl", "ru": "Cl", "en": "Cl" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "C (uglerod) elementida allotropiya mavjud: grafit, diamant, fullerenga.",
+          "Boshqa elementlarda bunday hodisa kuzatilmaydi."
+        ],
+        "final_answer": "C"
+      }
+    ],
+    "explanation": {
+      "uz": "Uglerod (C) elementida allotropiya mavjud, S, Br, Cl esa boshqa shakllarga ega emas.",
+      "ru": "Углерод (C) проявляет аллотропию, S, Br, Cl не обладают этим свойством.",
+      "en": "Carbon (C) exhibits allotropy; S, Br, Cl do not."
+    }
+  },
+  {
+    "id": "chem-234-corrected",
+    "number": 234,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["allotropiya", "element", "kimyo"],
+    "question": {
+      "uz": "Quyidagi javoblardagi elementlardan qaysi birida allotropiya hodisasi uchraydi?",
+      "ru": "У какого из перечисленных элементов наблюдается явление аллотропии?",
+      "en": "Which of the following elements exhibits allotropy?"
+    },
+    "options": {
+      "A": { "uz": "P", "ru": "P", "en": "P" },
+      "B": { "uz": "S", "ru": "S", "en": "S" },
+      "C": { "uz": "Br", "ru": "Br", "en": "Br" },
+      "D": { "uz": "Cl", "ru": "Cl", "en": "Cl" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "P (fosfor) elementida allotropiya mavjud: oq, qizil, qora fosfor.",
+          "Boshqa elementlarda bunday hodisa kuzatilmaydi."
+        ],
+        "final_answer": "P"
+      }
+    ],
+    "explanation": {
+      "uz": "Fosfor (P) elementida allotropiya mavjud, S, Br, Cl esa boshqa shakllarga ega emas.",
+      "ru": "Фосфор (P) проявляет аллотропию, S, Br, Cl не обладают этим свойством.",
+      "en": "Phosphorus (P) exhibits allotropy; S, Br, Cl do not."
+    }
+  },
+  {
+    "id": "chem-235-corrected",
+    "number": 235,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["allotropiya", "element", "kimyo"],
+    "question": {
+      "uz": "Quyidagi javoblardagi elementlardan qaysi birida allotropiya hodisasi uchraydi?",
+      "ru": "У какого из перечисленных элементов наблюдается явление аллотропии?",
+      "en": "Which of the following elements exhibits allotropy?"
+    },
+    "options": {
+      "A": { "uz": "O", "ru": "O", "en": "O" },
+      "B": { "uz": "S", "ru": "S", "en": "S" },
+      "C": { "uz": "Br", "ru": "Br", "en": "Br" },
+      "D": { "uz": "Cl", "ru": "Cl", "en": "Cl" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "S (olovli oltingugurt) bir nechta allotrop shakllarga ega: rombik, monoklinik va boshqalar.",
+          "Boshqa elementlarda bunday hodisa kuzatilmaydi."
+        ],
+        "final_answer": "S"
+      }
+    ],
+    "explanation": {
+      "uz": "Oltingugurt (S) elementida allotropiya mavjud, O, Br, Cl esa boshqa shakllarga ega emas.",
+      "ru": "Сера (S) проявляет аллотропию, O, Br, Cl не обладают этим свойством.",
+      "en": "Sulfur (S) exhibits allotropy; O, Br, Cl do not."
+    }
+  },
+  {
+    "id": "chem-236-corrected",
+    "number": 236,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["allotropiya", "element", "kimyo"],
+    "question": {
+      "uz": "Quyidagi javoblardagi elementlardan qaysi birida allotropiya hodisasi uchraydi?",
+      "ru": "У какого из перечисленных элементов наблюдается явление аллотропии?",
+      "en": "Which of the following elements exhibits allotropy?"
+    },
+    "options": {
+      "A": { "uz": "C", "ru": "C", "en": "C" },
+      "B": { "uz": "S", "ru": "S", "en": "S" },
+      "C": { "uz": "Br", "ru": "Br", "en": "Br" },
+      "D": { "uz": "Cl", "ru": "Cl", "en": "Cl" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Uglerod (C) elementida allotropiya mavjud: grafit, diamant, fullerenga.",
+          "Boshqa elementlarda bunday hodisa kuzatilmaydi."
+        ],
+        "final_answer": "C"
+      }
+    ],
+    "explanation": {
+      "uz": "Uglerod (C) elementida allotropiya mavjud, S, Br, Cl esa boshqa shakllarga ega emas.",
+      "ru": "Углерод (C) проявляет аллотропию, S, Br, Cl не обладают этим свойством.",
+      "en": "Carbon (C) exhibits allotropy; S, Br, Cl do not."
+    }
+  }
+]
+[
+  {
+    "id": "chem-232-corrected",
+    "number": 232,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["allotropiya", "element", "kimyo"],
+    "question": {
+      "uz": "Quyidagi javoblardagi elementlardan qaysi birida allotropiya hodisasi uchraydi?",
+      "ru": "У какого из перечисленных элементов наблюдается явление аллотропии?",
+      "en": "Which of the following elements exhibits allotropy?"
+    },
+    "options": {
+      "A": { "uz": "Ar", "ru": "Ar", "en": "Ar" },
+      "B": { "uz": "S", "ru": "S", "en": "S" },
+      "C": { "uz": "Br", "ru": "Br", "en": "Br" },
+      "D": { "uz": "Cl", "ru": "Cl", "en": "Cl" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Allotropiya hodisasi — bir elementning bir nechta shakllarda bo‘lishidir.",
+          "Oltingugurt (S) elementida rombik, monoklinik va plastiklik shakllari mavjud."
+        ],
+        "final_answer": "S"
+      }
+    ],
+    "explanation": {
+      "uz": "Oltingugurt (S) elementida allotropiya kuzatiladi, qolgan Ar, Br va Cl esa allotrop shakllarga ega emas.",
+      "ru": "Сера (S) проявляет аллотропию, в то время как Ar, Br и Cl не имеют аллотропных форм.",
+      "en": "Sulfur (S) exhibits allotropy, whereas Ar, Br, and Cl do not have allotropes."
+    }
+  },
+  {
+    "id": "chem-233-corrected",
+    "number": 233,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["allotropiya", "element", "kimyo"],
+    "question": {
+      "uz": "Quyidagi javoblardagi elementlardan qaysi birida allotropiya hodisasi uchraydi?",
+      "ru": "У какого из перечисленных элементов наблюдается явление аллотропии?",
+      "en": "Which of the following elements exhibits allotropy?"
+    },
+    "options": {
+      "A": { "uz": "He", "ru": "He", "en": "He" },
+      "B": { "uz": "C", "ru": "C", "en": "C" },
+      "C": { "uz": "Na", "ru": "Na", "en": "Na" },
+      "D": { "uz": "K", "ru": "K", "en": "K" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Allotropiya hodisasi — bir elementning turli shakllarda bo‘lishidir.",
+          "Uglerod (C) grafit, olmos va fulleren kabi allotroplarda mavjud."
+        ],
+        "final_answer": "C"
+      }
+    ],
+    "explanation": {
+      "uz": "Uglerod (C) allotrop shakllarga ega: grafit, olmos, fulleren.",
+      "ru": "Углерод (C) имеет аллотропные формы: графит, алмаз, фуллерен.",
+      "en": "Carbon (C) has allotropes: graphite, diamond, fullerene."
+    }
+  },
+  {
+    "id": "chem-234-corrected",
+    "number": 234,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["allotropiya", "element", "kimyo"],
+    "question": {
+      "uz": "Quyidagi javoblardagi elementlardan qaysi birida allotropiya hodisasi uchraydi?",
+      "ru": "У какого из перечисленных элементов наблюдается явление аллотропии?",
+      "en": "Which of the following elements exhibits allotropy?"
+    },
+    "options": {
+      "A": { "uz": "O", "ru": "O", "en": "O" },
+      "B": { "uz": "Ne", "ru": "Ne", "en": "Ne" },
+      "C": { "uz": "Mg", "ru": "Mg", "en": "Mg" },
+      "D": { "uz": "Ca", "ru": "Ca", "en": "Ca" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Allotropiya hodisasi — bir elementning turli shakllarda bo‘lishidir.",
+          "Kislorod (O) O2 va ozon O3 ko‘rinishida mavjud."
+        ],
+        "final_answer": "O"
+      }
+    ],
+    "explanation": {
+      "uz": "Kislorod (O) allotropik shakllarda: O₂ va O₃ mavjud.",
+      "ru": "Кислород (O) существует в аллотропных формах: O₂ и O₃.",
+      "en": "Oxygen (O) exists in allotropic forms: O₂ and O₃."
+    }
+  },
+  {
+    "id": "chem-235-corrected",
+    "number": 235,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["allotropiya", "element", "kimyo"],
+    "question": {
+      "uz": "Quyidagi javoblardagi elementlardan qaysi birida allotropiya hodisasi uchraydi?",
+      "ru": "У какого из перечисленных элементов наблюдается явление аллотропии?",
+      "en": "Which of the following elements exhibits allotropy?"
+    },
+    "options": {
+      "A": { "uz": "Li", "ru": "Li", "en": "Li" },
+      "B": { "uz": "Na", "ru": "Na", "en": "Na" },
+      "C": { "uz": "P", "ru": "P", "en": "P" },
+      "D": { "uz": "K", "ru": "K", "en": "K" }
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Allotropiya hodisasi — elementning bir nechta shakllarda mavjud bo‘lishidir.",
+          "Fosfor (P) oq, qizil va qora fosfor shaklida mavjud."
+        ],
+        "final_answer": "P"
+      }
+    ],
+    "explanation": {
+      "uz": "Fosfor (P) oq, qizil va qora allotroplarda uchraydi.",
+      "ru": "Фосфор (P) имеет белую, красную и чёрную аллотропные формы.",
+      "en": "Phosphorus (P) exists in white, red, and black allotropes."
+    }
+  },
+  {
+    "id": "chem-236-corrected",
+    "number": 236,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["allotropiya", "element", "kimyo"],
+    "question": {
+      "uz": "Quyidagi javoblardagi elementlardan qaysi birida allotropiya hodisasi uchraydi?",
+      "ru": "У какого из перечисленных элементов наблюдается явление аллотропии?",
+      "en": "Which of the following elements exhibits allotropy?"
+    },
+    "options": {
+      "A": { "uz": "Kr", "ru": "Kr", "en": "Kr" },
+      "B": { "uz": "Xe", "ru": "Xe", "en": "Xe" },
+      "C": { "uz": "I", "ru": "I", "en": "I" },
+      "D": { "uz": "O", "ru": "O", "en": "O" }
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "definition",
+        "steps": [
+          "Allotropiya — elementning bir nechta tuzilish shakllari mavjudligi.",
+          "Kislorod (O) O₂ va O₃ allotroplariga ega."
+        ],
+        "final_answer": "O"
+      }
+    ],
+    "explanation": {
+      "uz": "Kislorod (O) O₂ va O₃ allotroplarda mavjud.",
+      "ru": "Кислород (O) существует в аллотропных формах O₂ и O₃.",
+      "en": "Oxygen (O) exists in allotropes O₂ and O₃."
+    }
+  }
+]
+[
+  {
+    "id": "chem-233-corrected",
+    "number": 233,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["atom", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi javoblardagi elementlardan qaysi birida allotropiya hodisasi uchraydi?",
+      "ru": "У какого из приведённых элементов наблюдается явление аллотропии?",
+      "en": "Which of the following elements exhibits the phenomenon of allotropy?"
+    },
+    "options": {
+      "A": { "uz": "Kr", "ru": "Kr", "en": "Kr" },
+      "B": { "uz": "Ne", "ru": "Ne", "en": "Ne" },
+      "C": { "uz": "I", "ru": "I", "en": "I" },
+      "D": { "uz": "C", "ru": "C", "en": "C" }
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "taqqoslash",
+        "steps": [
+          "Allotropiya – bir elementning turli shakllarda mavjud bo‘lishi.",
+          "Kr, Ne inert gazlar bo‘lgani uchun allotropiya ko‘rsatmaydi.",
+          "Uglerod (C) – grafit, olmos, fullerenga ega."
+        ],
+        "final_answer": "C"
+      }
+    ],
+    "explanation": {
+      "uz": "Allotropiya hodisasi eng mashhur uglerodda uchraydi (grafit, olmos, fullerenga).",
+      "ru": "Аллотропия ярко выражена у углерода (графит, алмаз, фуллерены).",
+      "en": "Allotropy is most notable in carbon (graphite, diamond, fullerenes)."
+    }
+  },
+  {
+    "id": "chem-234-corrected",
+    "number": 234,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi elementlardan qaysi biri allotrop shakllarda mavjud?",
+      "ru": "Какой из следующих элементов существует в аллотропных формах?",
+      "en": "Which of the following elements exists in allotropes?"
+    },
+    "options": {
+      "A": { "uz": "O", "ru": "O", "en": "O" },
+      "B": { "uz": "Na", "ru": "Na", "en": "Na" },
+      "C": { "uz": "K", "ru": "K", "en": "K" },
+      "D": { "uz": "Li", "ru": "Li", "en": "Li" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "taqqoslash",
+        "steps": [
+          "Allotropiya hodisasi – bitta elementning turli molekulyar shakllarda mavjudligi.",
+          "Oksigen (O2) va ozon (O3) buning misolidir."
+        ],
+        "final_answer": "O"
+      }
+    ],
+    "explanation": {
+      "uz": "Oksigen ikki allotrop shaklga ega: O2 va O3 (ozon).",
+      "ru": "Кислород имеет две аллотропные формы: O2 и O3 (озон).",
+      "en": "Oxygen has two allotropes: O2 and O3 (ozone)."
+    }
+  },
+  {
+    "id": "chem-235-corrected",
+    "number": 235,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["modda", "allotropiya", "element"],
+    "question": {
+      "uz": "Allotropiya hodisasiga ega bo‘lgan elementni belgilang.",
+      "ru": "Укажите элемент, обладающий аллотропией.",
+      "en": "Select the element that shows allotropy."
+    },
+    "options": {
+      "A": { "uz": "He", "ru": "He", "en": "He" },
+      "B": { "uz": "N", "ru": "N", "en": "N" },
+      "C": { "uz": "S", "ru": "S", "en": "S" },
+      "D": { "uz": "K", "ru": "K", "en": "K" }
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "misol keltirish",
+        "steps": [
+          "Oltingugurt turli kristall shakllarda uchraydi.",
+          "Rhombik va monoklinik shakllari mavjud."
+        ],
+        "final_answer": "S"
+      }
+    ],
+    "explanation": {
+      "uz": "Oltingugurt allotrop shakllarda uchraydi: rombik, monoklinik.",
+      "ru": "Сера имеет аллотропные формы: ромбическая и моноклинная.",
+      "en": "Sulfur occurs in allotropes: rhombic and monoclinic."
+    }
+  },
+  {
+    "id": "chem-236-corrected",
+    "number": 236,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["allotropiya", "element", "molekula"],
+    "question": {
+      "uz": "Quyidagi variantlardan qaysi element allotrop shakllarga ega?",
+      "ru": "Какой элемент из приведённых имеет аллотропные формы?",
+      "en": "Which of the following elements has allotropes?"
+    },
+    "options": {
+      "A": { "uz": "Cl", "ru": "Cl", "en": "Cl" },
+      "B": { "uz": "P", "ru": "P", "en": "P" },
+      "C": { "uz": "Mg", "ru": "Mg", "en": "Mg" },
+      "D": { "uz": "Ca", "ru": "Ca", "en": "Ca" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": [
+          "Fosfor allotrop shakllarda uchraydi.",
+          "Oq fosfor, qizil fosfor, qora fosfor mavjud."
+        ],
+        "final_answer": "P"
+      }
+    ],
+    "explanation": {
+      "uz": "Fosfor oq, qizil va qora allotroplarda mavjud.",
+      "ru": "Фосфор имеет белую, красную и чёрную аллотропные формы.",
+      "en": "Phosphorus exists as white, red, and black allotropes."
+    }
+  },
+  {
+    "id": "chem-237-corrected",
+    "number": 237,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Allotropiya hodisasi kuzatiladigan elementni tanlang.",
+      "ru": "Выберите элемент, у которого наблюдается аллотропия.",
+      "en": "Choose the element that exhibits allotropy."
+    },
+    "options": {
+      "A": { "uz": "Fe", "ru": "Fe", "en": "Fe" },
+      "B": { "uz": "C", "ru": "C", "en": "C" },
+      "C": { "uz": "Na", "ru": "Na", "en": "Na" },
+      "D": { "uz": "K", "ru": "K", "en": "K" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "misol keltirish",
+        "steps": [
+          "Uglerod allotrop shakllarda mavjud.",
+          "Olmos, grafit, fullerenga misol bo‘ladi."
+        ],
+        "final_answer": "C"
+      }
+    ],
+    "explanation": {
+      "uz": "Uglerod allotrop shakllarga ega: olmos, grafit, fullerenga.",
+      "ru": "Углерод имеет аллотропные формы: алмаз, графит, фуллерены.",
+      "en": "Carbon has allotropes: diamond, graphite, fullerenes."
+    }
+  }
+]
+[
+  {
+    "id": "chem-301-corrected",
+    "number": 301,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi elementlardan qaysi biri allotropiya hodisasiga ega?",
+      "ru": "Какой из следующих элементов имеет явление аллотропии?",
+      "en": "Which of the following elements shows allotropy?"
+    },
+    "options": {
+      "A": { "uz": "C", "ru": "C", "en": "C" },
+      "B": { "uz": "Ne", "ru": "Ne", "en": "Ne" },
+      "C": { "uz": "Kr", "ru": "Kr", "en": "Kr" },
+      "D": { "uz": "Ar", "ru": "Ar", "en": "Ar" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "misol orqali",
+        "steps": ["Uglerod grafit va olmos ko‘rinishida mavjud.", "Demak, uglerod allotropiyaga ega."],
+        "final_answer": "C"
+      }
+    ],
+    "explanation": {
+      "uz": "Uglerodning allotroplari: grafit, olmos, fulleren.",
+      "ru": "Аллотропы углерода: графит, алмаз, фуллерен.",
+      "en": "Allotropes of carbon: graphite, diamond, fullerene."
+    }
+  },
+  {
+    "id": "chem-302-corrected",
+    "number": 302,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi elementlardan qaysi biri allotropiya hodisasiga ega?",
+      "ru": "Какой из следующих элементов имеет явление аллотропии?",
+      "en": "Which of the following elements shows allotropy?"
+    },
+    "options": {
+      "A": { "uz": "Na", "ru": "Na", "en": "Na" },
+      "B": { "uz": "S", "ru": "S", "en": "S" },
+      "C": { "uz": "K", "ru": "K", "en": "K" },
+      "D": { "uz": "Ca", "ru": "Ca", "en": "Ca" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": ["Oltingugurt rombik va monoklin shakllarda mavjud.", "Bu allotropiyaga misol."],
+        "final_answer": "S"
+      }
+    ],
+    "explanation": {
+      "uz": "Oltingugurt allotroplari: rombik S va monoklin S.",
+      "ru": "Аллотропы серы: ромбическая S и моноклинная S.",
+      "en": "Allotropes of sulfur: rhombic S and monoclinic S."
+    }
+  },
+  {
+    "id": "chem-303-corrected",
+    "number": 303,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi elementlardan qaysi biri allotropiya hodisasiga ega?",
+      "ru": "Какой из следующих элементов имеет явление аллотропии?",
+      "en": "Which of the following elements shows allotropy?"
+    },
+    "options": {
+      "A": { "uz": "He", "ru": "He", "en": "He" },
+      "B": { "uz": "O", "ru": "O", "en": "O" },
+      "C": { "uz": "Li", "ru": "Li", "en": "Li" },
+      "D": { "uz": "Mg", "ru": "Mg", "en": "Mg" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "misol orqali",
+        "steps": ["Kislorod O₂ va O₃ (ozon) shaklida mavjud.", "Bu allotropiya hodisasi."],
+        "final_answer": "O"
+      }
+    ],
+    "explanation": {
+      "uz": "Kislorodning allotroplari: O₂ va O₃.",
+      "ru": "Аллотропы кислорода: O₂ и O₃.",
+      "en": "Allotropes of oxygen: O₂ and O₃."
+    }
+  },
+  {
+    "id": "chem-304-corrected",
+    "number": 304,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi elementlardan qaysi biri allotropiya hodisasiga ega?",
+      "ru": "Какой из следующих элементов имеет явление аллотропии?",
+      "en": "Which of the following elements shows allotropy?"
+    },
+    "options": {
+      "A": { "uz": "P", "ru": "P", "en": "P" },
+      "B": { "uz": "Ba", "ru": "Ba", "en": "Ba" },
+      "C": { "uz": "Sr", "ru": "Sr", "en": "Sr" },
+      "D": { "uz": "Rb", "ru": "Rb", "en": "Rb" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": ["Fosfor oq, qizil va qora shakllarda uchraydi.", "Bu allotropiya hodisasiga misol."],
+        "final_answer": "P"
+      }
+    ],
+    "explanation": {
+      "uz": "Fosforning allotroplari: oq, qizil va qora.",
+      "ru": "Аллотропы фосфора: белый, красный и черный.",
+      "en": "Allotropes of phosphorus: white, red, and black."
+    }
+  },
+  {
+    "id": "chem-305-corrected",
+    "number": 305,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi elementlardan qaysi biri allotropiya hodisasiga ega?",
+      "ru": "Какой из следующих элементов имеет явление аллотропии?",
+      "en": "Which of the following elements shows allotropy?"
+    },
+    "options": {
+      "A": { "uz": "Si", "ru": "Si", "en": "Si" },
+      "B": { "uz": "B", "ru": "B", "en": "B" },
+      "C": { "uz": "N", "ru": "N", "en": "N" },
+      "D": { "uz": "S", "ru": "S", "en": "S" }
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "misol",
+        "steps": ["Oltingugurt bir nechta shakllarda mavjud.", "Rombik va monoklin S allotroplardir."],
+        "final_answer": "S"
+      }
+    ],
+    "explanation": {
+      "uz": "Oltingugurt allotroplari: rombik va monoklin.",
+      "ru": "Аллотропы серы: ромбическая и моноклинная.",
+      "en": "Allotropes of sulfur: rhombic and monoclinic."
+    }
+  }
+]
+[
+  {
+    "id": "chem-239-corrected",
+    "number": 239,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi javoblardagi elementlardan qaysi birida allotropiya hodisasi uchraydi?",
+      "ru": "В каком из следующих элементов встречается явление аллотропии?",
+      "en": "Which of the following elements exhibits allotropy?"
+    },
+    "options": {
+      "A": { "uz": "I", "ru": "I", "en": "I" },
+      "B": { "uz": "N", "ru": "N", "en": "N" },
+      "C": { "uz": "K", "ru": "K", "en": "K" },
+      "D": { "uz": "P", "ru": "P", "en": "P" }
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": ["Fosfor oq, qizil va qora shakllarda mavjud.", "Demak, fosfor allotropiyaga ega."],
+        "final_answer": "P"
+      }
+    ],
+    "explanation": {
+      "uz": "Fosfor oq, qizil va qora allotroplarda uchraydi.",
+      "ru": "Фосфор имеет белую, красную и черную аллотропные формы.",
+      "en": "Phosphorus has white, red, and black allotropes."
+    }
+  },
+  {
+    "id": "chem-240-corrected",
+    "number": 240,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi javoblardagi elementlardan qaysi birida allotropiya hodisasi uchraydi?",
+      "ru": "В каком из следующих элементов встречается явление аллотропии?",
+      "en": "Which of the following elements exhibits allotropy?"
+    },
+    "options": {
+      "A": { "uz": "O", "ru": "O", "en": "O" },
+      "B": { "uz": "Na", "ru": "Na", "en": "Na" },
+      "C": { "uz": "K", "ru": "K", "en": "K" },
+      "D": { "uz": "Ne", "ru": "Ne", "en": "Ne" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": ["Kislorod O₂ va O₃ shakllarida mavjud.", "Demak, u allotropiyaga ega."],
+        "final_answer": "O"
+      }
+    ],
+    "explanation": {
+      "uz": "Kislorodning allotroplari: kislorod (O₂) va ozon (O₃).",
+      "ru": "Аллотропы кислорода: O₂ и O₃.",
+      "en": "Oxygen allotropes: O₂ and O₃."
+    }
+  },
+  {
+    "id": "chem-241-corrected",
+    "number": 241,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi javoblardagi elementlardan qaysi birida allotropiya hodisasi uchraydi?",
+      "ru": "В каком из следующих элементов встречается явление аллотропии?",
+      "en": "Which of the following elements exhibits allotropy?"
+    },
+    "options": {
+      "A": { "uz": "He", "ru": "He", "en": "He" },
+      "B": { "uz": "C", "ru": "C", "en": "C" },
+      "C": { "uz": "Na", "ru": "Na", "en": "Na" },
+      "D": { "uz": "K", "ru": "K", "en": "K" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": ["Uglerod grafit, olmos va fullerene shaklida mavjud.", "Demak, u allotropiyaga ega."],
+        "final_answer": "C"
+      }
+    ],
+    "explanation": {
+      "uz": "Uglerod allotroplari: grafit, olmos, fullerene.",
+      "ru": "Аллотропы углерода: графит, алмаз, фуллерен.",
+      "en": "Carbon allotropes: graphite, diamond, fullerene."
+    }
+  },
+  {
+    "id": "chem-242-corrected",
+    "number": 242,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi javoblardagi elementlardan qaysi birida allotropiya hodisasi uchraydi?",
+      "ru": "В каком из следующих элементов встречается явление аллотропии?",
+      "en": "Which of the following elements exhibits allotropy?"
+    },
+    "options": {
+      "A": { "uz": "S", "ru": "S", "en": "S" },
+      "B": { "uz": "Ar", "ru": "Ar", "en": "Ar" },
+      "C": { "uz": "K", "ru": "K", "en": "K" },
+      "D": { "uz": "Ne", "ru": "Ne", "en": "Ne" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": ["Oltingugurt rombik va monoklinik shakllarda mavjud.", "Demak, u allotropiyaga ega."],
+        "final_answer": "S"
+      }
+    ],
+    "explanation": {
+      "uz": "Oltingugurt allotroplari: rombik va monoklinik.",
+      "ru": "Аллотропы серы: ромбическая и моноклинная.",
+      "en": "Sulfur allotropes: rhombic and monoclinic."
+    }
+  },
+  {
+    "id": "chem-243-corrected",
+    "number": 243,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi javoblardagi elementlardan qaysi birida allotropiya hodisasi uchraydi?",
+      "ru": "В каком из следующих элементов встречается явление аллотропии?",
+      "en": "Which of the following elements exhibits allotropy?"
+    },
+    "options": {
+      "A": { "uz": "Se", "ru": "Se", "en": "Se" },
+      "B": { "uz": "Na", "ru": "Na", "en": "Na" },
+      "C": { "uz": "K", "ru": "K", "en": "K" },
+      "D": { "uz": "Cl", "ru": "Cl", "en": "Cl" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": ["Selen amorf, kristall shakllarda mavjud.", "Demak, u allotropiyaga ega."],
+        "final_answer": "Se"
+      }
+    ],
+    "explanation": {
+      "uz": "Selen allotroplari amorf va kristall shakllarda uchraydi.",
+      "ru": "Аллотропы селена: аморфная и кристаллическая формы.",
+      "en": "Selenium allotropes: amorphous and crystalline."
+    }
+  }
+]
+[
+  {
+    "id": "chem-240",
+    "number": 240,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi javoblardagi elementlardan qaysi birida allotropiya hodisasi uchraydi?",
+      "ru": "В каком из следующих элементов встречается явление аллотропии?",
+      "en": "Which of the following elements exhibits allotropy?"
+    },
+    "has_image": false,
+    "images": [],
+    "options": {
+      "A": { "uz": "H", "ru": "H", "en": "H" },
+      "B": { "uz": "Ne", "ru": "Ne", "en": "Ne" },
+      "C": { "uz": "S", "ru": "S", "en": "S" },
+      "D": { "uz": "Cl", "ru": "Cl", "en": "Cl" }
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": [
+          "Oltingugurt bir nechta allotroplarda mavjud.",
+          "Rombik va monoklinik shakllar eng mashhur allotroplaridir."
+        ],
+        "final_answer": "S"
+      }
+    ],
+    "explanation": {
+      "uz": "Oltingugurt allotroplari rombik va monoklinik shakllarda uchraydi.",
+      "ru": "Аллотропы серы: ромбическая и моноклинная формы.",
+      "en": "Sulfur allotropes: rhombic and monoclinic forms."
+    }
+  },
+  {
+    "id": "chem-241",
+    "number": 241,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi elementlardan qaysi birida allotropiya mavjud?",
+      "ru": "В каком из этих элементов наблюдается аллотропия?",
+      "en": "Which of these elements shows allotropy?"
+    },
+    "has_image": false,
+    "images": [],
+    "options": {
+      "A": { "uz": "C", "ru": "C", "en": "C" },
+      "B": { "uz": "Na", "ru": "Na", "en": "Na" },
+      "C": { "uz": "K", "ru": "K", "en": "K" },
+      "D": { "uz": "Ca", "ru": "Ca", "en": "Ca" }
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": [
+          "Uglerod allotroplari grafit, olmos va fullerendir.",
+          "Bu shakllar turlicha xossalarga ega."
+        ],
+        "final_answer": "C"
+      }
+    ],
+    "explanation": {
+      "uz": "Uglerodning grafit, olmos va fuleren kabi allotroplari bor.",
+      "ru": "Аллотропы углерода: графит, алмаз и фуллерен.",
+      "en": "Carbon has allotropes such as graphite, diamond, and fullerene."
+    }
+  },
+  {
+    "id": "chem-242",
+    "number": 242,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Qaysi element allotropiyaga ega?",
+      "ru": "Какой элемент имеет аллотропию?",
+      "en": "Which element has allotropy?"
+    },
+    "has_image": false,
+    "images": [],
+    "options": {
+      "A": { "uz": "He", "ru": "He", "en": "He" },
+      "B": { "uz": "O", "ru": "O", "en": "O" },
+      "C": { "uz": "Na", "ru": "Na", "en": "Na" },
+      "D": { "uz": "Mg", "ru": "Mg", "en": "Mg" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": [
+          "Kislorodning O₂ va O₃ shakllari mavjud.",
+          "Bular allotrop shakllar hisoblanadi."
+        ],
+        "final_answer": "O"
+      }
+    ],
+    "explanation": {
+      "uz": "Kislorodning allotroplari — O₂ (kislorod) va O₃ (ozon).",
+      "ru": "Аллотропы кислорода: O₂ и O₃.",
+      "en": "Oxygen allotropes are O₂ (oxygen) and O₃ (ozone)."
+    }
+  },
+  {
+    "id": "chem-243",
+    "number": 243,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Allotropiyasi mavjud bo'lgan elementni belgilang.",
+      "ru": "Укажите элемент, имеющий аллотропию.",
+      "en": "Select the element that has allotropy."
+    },
+    "has_image": false,
+    "images": [],
+    "options": {
+      "A": { "uz": "N", "ru": "N", "en": "N" },
+      "B": { "uz": "Si", "ru": "Si", "en": "Si" },
+      "C": { "uz": "Al", "ru": "Al", "en": "Al" },
+      "D": { "uz": "P", "ru": "P", "en": "P" }
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": [
+          "Fosfor oq, qizil va qora allotroplarda uchraydi.",
+          "Ularning xossalari turlicha."
+        ],
+        "final_answer": "P"
+      }
+    ],
+    "explanation": {
+      "uz": "Fosfor oq, qizil va qora allotroplarga ega.",
+      "ru": "Аллотропы фосфора: белый, красный и черный.",
+      "en": "Phosphorus has white, red, and black allotropes."
+    }
+  },
+  {
+    "id": "chem-244",
+    "number": 244,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagilardan qaysi biri allotropiyaga ega bo‘lgan element?",
+      "ru": "Который из следующих элементов имеет аллотропию?",
+      "en": "Which of the following elements has allotropy?"
+    },
+    "has_image": false,
+    "images": [],
+    "options": {
+      "A": { "uz": "F", "ru": "F", "en": "F" },
+      "B": { "uz": "S", "ru": "S", "en": "S" },
+      "C": { "uz": "Ar", "ru": "Ar", "en": "Ar" },
+      "D": { "uz": "K", "ru": "K", "en": "K" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": [
+          "Oltingugurtning rombik va monoklinik allotroplari mavjud.",
+          "Shuningdek, plastiklik shakllari ham bor."
+        ],
+        "final_answer": "S"
+      }
+    ],
+    "explanation": {
+      "uz": "Oltingugurt allotroplari rombik, monoklinik va plastiklik shaklda uchraydi.",
+      "ru": "Аллотропы серы: ромбическая, моноклинная и пластическая формы.",
+      "en": "Sulfur allotropes include rhombic, monoclinic, and plastic forms."
+    }
+  }
+]
+[
+  {
+    "id": "chem-242",
+    "number": 242,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi moddalardan qaysi birida allotropiya hodisasi kuzatiladigan element bor?",
+      "ru": "В каком из следующих веществ присутствует элемент, у которого наблюдается аллотропия?",
+      "en": "Which of the following substances contains an element that exhibits allotropy?"
+    },
+    "has_image": false,
+    "images": [],
+    "options": {
+      "A": { "uz": "$\\mathrm{H}_{2}$", "ru": "$\\mathrm{H}_{2}$", "en": "$\\mathrm{H}_{2}$" },
+      "B": { "uz": "Ne", "ru": "Ne", "en": "Ne" },
+      "C": { "uz": "$\\mathrm{Na}_{2} \\mathrm{S}$", "ru": "$\\mathrm{Na}_{2} \\mathrm{S}$", "en": "$\\mathrm{Na}_{2} \\mathrm{S}$" },
+      "D": { "uz": "NaCl", "ru": "NaCl", "en": "NaCl" }
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": [
+          "Allotropiya elementlarning turli shakllarda mavjud bo‘lishidir.",
+          "Na₂S tarkibida oltingugurt mavjud.",
+          "Oltingugurt allotroplari rombik, monoklinik va plastiklik shakllarda uchraydi."
+        ],
+        "final_answer": "Na₂S"
+      }
+    ],
+    "explanation": {
+      "uz": "Na₂S moddasi tarkibida oltingugurt bor, u esa allotropiyaga ega elementdir.",
+      "ru": "В веществе Na₂S присутствует сера, которая имеет аллотропию.",
+      "en": "Na₂S contains sulfur, which exhibits allotropy."
+    }
+  },
+  {
+    "id": "chem-243",
+    "number": 243,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi moddalardan qaysi birida allotropiya hodisasi kuzatiladigan element bor?",
+      "ru": "В каком из следующих веществ присутствует элемент, у которого наблюдается аллотропия?",
+      "en": "Which of the following substances contains an element that exhibits allotropy?"
+    },
+    "has_image": false,
+    "images": [],
+    "options": {
+      "A": { "uz": "CO₂", "ru": "CO₂", "en": "CO₂" },
+      "B": { "uz": "HCl", "ru": "HCl", "en": "HCl" },
+      "C": { "uz": "SO₂", "ru": "SO₂", "en": "SO₂" },
+      "D": { "uz": "NaOH", "ru": "NaOH", "en": "NaOH" }
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": [
+          "SO₂ molekulasi tarkibida oltingugurt bor.",
+          "Oltingugurt allotropiyaga ega elementdir."
+        ],
+        "final_answer": "SO₂"
+      }
+    ],
+    "explanation": {
+      "uz": "SO₂ moddasi tarkibida oltingugurt mavjud va u allotropiyaga ega.",
+      "ru": "В веществе SO₂ содержится сера, которая имеет аллотропию.",
+      "en": "SO₂ contains sulfur, which exhibits allotropy."
+    }
+  },
+  {
+    "id": "chem-244",
+    "number": 244,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi moddalardan qaysi birida allotropiya hodisasi kuzatiladigan element bor?",
+      "ru": "В каком из следующих веществ присутствует элемент, у которого наблюдается аллотропия?",
+      "en": "Which of the following substances contains an element that exhibits allotropy?"
+    },
+    "has_image": false,
+    "images": [],
+    "options": {
+      "A": { "uz": "CH₄", "ru": "CH₄", "en": "CH₄" },
+      "B": { "uz": "C₂H₂", "ru": "C₂H₂", "en": "C₂H₂" },
+      "C": { "uz": "NaBr", "ru": "NaBr", "en": "NaBr" },
+      "D": { "uz": "KOH", "ru": "KOH", "en": "KOH" }
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": [
+          "C₂H₂ (atsetilen) tarkibida uglerod mavjud.",
+          "Uglerod allotropiyaga ega elementdir (grafit, olmos, fulleren)."
+        ],
+        "final_answer": "C₂H₂"
+      }
+    ],
+    "explanation": {
+      "uz": "C₂H₂ moddasi tarkibida uglerod bor, u esa allotropiyaga ega.",
+      "ru": "В веществе C₂H₂ содержится углерод, который имеет аллотропию.",
+      "en": "C₂H₂ contains carbon, which exhibits allotropy."
+    }
+  },
+  {
+    "id": "chem-245",
+    "number": 245,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi moddalardan qaysi birida allotropiya hodisasi kuzatiladigan element bor?",
+      "ru": "В каком из следующих веществ присутствует элемент, у которого наблюдается аллотропия?",
+      "en": "Which of the following substances contains an element that exhibits allotropy?"
+    },
+    "has_image": false,
+    "images": [],
+    "options": {
+      "A": { "uz": "NaF", "ru": "NaF", "en": "NaF" },
+      "B": { "uz": "Cl₂", "ru": "Cl₂", "en": "Cl₂" },
+      "C": { "uz": "HBr", "ru": "HBr", "en": "HBr" },
+      "D": { "uz": "O₃", "ru": "O₃", "en": "O₃" }
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": [
+          "O₃ (ozon) kislorodning allotrop shaklidir.",
+          "Kislorodning allotroplari: O₂ va O₃."
+        ],
+        "final_answer": "O₃"
+      }
+    ],
+    "explanation": {
+      "uz": "Ozon kislorodning allotrop shaklidir, shuning uchun to‘g‘ri javob O₃.",
+      "ru": "Озон является аллотропной формой кислорода.",
+      "en": "Ozone is an allotrope of oxygen."
+    }
+  },
+  {
+    "id": "chem-246",
+    "number": 246,
+    "subject": "kimyo",
+    "topic": "Allotropiya",
+    "tags": ["element", "allotropiya", "kimyo"],
+    "question": {
+      "uz": "Quyidagi moddalardan qaysi birida allotropiya hodisasi kuzatiladigan element bor?",
+      "ru": "В каком из следующих веществ присутствует элемент, у которого наблюдается аллотропия?",
+      "en": "Which of the following substances contains an element that exhibits allotropy?"
+    },
+    "has_image": false,
+    "images": [],
+    "options": {
+      "A": { "uz": "NH₃", "ru": "NH₃", "en": "NH₃" },
+      "B": { "uz": "PH₃", "ru": "PH₃", "en": "PH₃" },
+      "C": { "uz": "CO", "ru": "CO", "en": "CO" },
+      "D": { "uz": "SiO₂", "ru": "SiO₂", "en": "SiO₂" }
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "language": ["uz", "ru", "en"],
+    "solutions": [
+      {
+        "method": "izoh",
+        "steps": [
+          "SiO₂ (kremniy dioksid) tarkibida kremniy mavjud.",
+          "Kremniy allotropiyaga ega elementdir."
+        ],
+        "final_answer": "SiO₂"
+      }
+    ],
+    "explanation": {
+      "uz": "SiO₂ moddasi tarkibida kremniy mavjud, u esa allotropiyaga ega.",
+      "ru": "В SiO₂ содержится кремний, который имеет аллотропию.",
+      "en": "SiO₂ contains silicon, which exhibits allotropy."
+    }
+  }
+]
+244
